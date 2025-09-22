@@ -1,0 +1,4822 @@
+{
+  "level": "kabupaten",
+  "fetched_at": "2025-09-22T10:19:44.104023+00:00",
+  "payloads": [
+    {
+      "parent_kode_bps": "11",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "1101",
+          "nama_bps": "KAB. SIMEULUE",
+          "kode_dagri": "1109",
+          "nama_dagri": "KAB. SIMEULUE",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1102",
+          "nama_bps": "KAB. ACEH SINGKIL",
+          "kode_dagri": "1110",
+          "nama_dagri": "KAB. ACEH SINGKIL",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1103",
+          "nama_bps": "KAB. ACEH SELATAN",
+          "kode_dagri": "1101",
+          "nama_dagri": "KAB. ACEH SELATAN",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1104",
+          "nama_bps": "KAB. ACEH TENGGARA",
+          "kode_dagri": "1102",
+          "nama_dagri": "KAB. ACEH TENGGARA",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1105",
+          "nama_bps": "KAB. ACEH TIMUR",
+          "kode_dagri": "1103",
+          "nama_dagri": "KAB. ACEH TIMUR",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1106",
+          "nama_bps": "KAB. ACEH TENGAH",
+          "kode_dagri": "1104",
+          "nama_dagri": "KAB. ACEH TENGAH",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1107",
+          "nama_bps": "KAB. ACEH BARAT",
+          "kode_dagri": "1105",
+          "nama_dagri": "KAB. ACEH BARAT",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1108",
+          "nama_bps": "KAB. ACEH BESAR",
+          "kode_dagri": "1106",
+          "nama_dagri": "KAB. ACEH BESAR",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1109",
+          "nama_bps": "KAB. PIDIE",
+          "kode_dagri": "1107",
+          "nama_dagri": "KAB. PIDIE",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1110",
+          "nama_bps": "KAB. BIREUEN",
+          "kode_dagri": "1111",
+          "nama_dagri": "KAB. BIREUEN",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1111",
+          "nama_bps": "KAB. ACEH UTARA",
+          "kode_dagri": "1108",
+          "nama_dagri": "KAB. ACEH UTARA",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1112",
+          "nama_bps": "KAB. ACEH BARAT DAYA",
+          "kode_dagri": "1112",
+          "nama_dagri": "KAB. ACEH BARAT DAYA",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1113",
+          "nama_bps": "KAB. GAYO LUES",
+          "kode_dagri": "1113",
+          "nama_dagri": "KAB. GAYO LUES",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1114",
+          "nama_bps": "KAB. ACEH TAMIANG",
+          "kode_dagri": "1116",
+          "nama_dagri": "KAB. ACEH TAMIANG",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1115",
+          "nama_bps": "KAB. NAGAN RAYA",
+          "kode_dagri": "1115",
+          "nama_dagri": "KAB. NAGAN RAYA",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1116",
+          "nama_bps": "KAB. ACEH JAYA",
+          "kode_dagri": "1114",
+          "nama_dagri": "KAB. ACEH JAYA",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1117",
+          "nama_bps": "KAB. BENER MERIAH",
+          "kode_dagri": "1117",
+          "nama_dagri": "KAB. BENER MERIAH",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1118",
+          "nama_bps": "KAB. PIDIE JAYA",
+          "kode_dagri": "1118",
+          "nama_dagri": "KAB. PIDIE JAYA",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1171",
+          "nama_bps": "KOTA BANDA ACEH",
+          "kode_dagri": "1171",
+          "nama_dagri": "KOTA BANDA ACEH",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1172",
+          "nama_bps": "KOTA SABANG",
+          "kode_dagri": "1172",
+          "nama_dagri": "KOTA SABANG",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1173",
+          "nama_bps": "KOTA LANGSA",
+          "kode_dagri": "1174",
+          "nama_dagri": "KOTA LANGSA",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1174",
+          "nama_bps": "KOTA LHOKSEUMAWE",
+          "kode_dagri": "1173",
+          "nama_dagri": "KOTA LHOKSEUMAWE",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1175",
+          "nama_bps": "KOTA SUBULUSSALAM",
+          "kode_dagri": "1175",
+          "nama_dagri": "KOTA SUBULUSSALAM",
+          "parent_kode_bps": "11",
+          "province_kode_bps": "11"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "12",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "1201",
+          "nama_bps": "KAB. NIAS",
+          "kode_dagri": "1204",
+          "nama_dagri": "KAB. NIAS",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1202",
+          "nama_bps": "KAB. MANDAILING NATAL",
+          "kode_dagri": "1213",
+          "nama_dagri": "KAB. MANDAILING NATAL",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1203",
+          "nama_bps": "KAB. TAPANULI SELATAN",
+          "kode_dagri": "1203",
+          "nama_dagri": "KAB. TAPANULI SELATAN",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1204",
+          "nama_bps": "KAB. TAPANULI TENGAH",
+          "kode_dagri": "1201",
+          "nama_dagri": "KAB. TAPANULI TENGAH",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1205",
+          "nama_bps": "KAB. TAPANULI UTARA",
+          "kode_dagri": "1202",
+          "nama_dagri": "KAB. TAPANULI UTARA",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1206",
+          "nama_bps": "KAB. TOBA",
+          "kode_dagri": "1212",
+          "nama_dagri": "KAB. TOBA",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1207",
+          "nama_bps": "KAB. LABUHANBATU",
+          "kode_dagri": "1210",
+          "nama_dagri": "KAB. LABUHANBATU",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1208",
+          "nama_bps": "KAB. ASAHAN",
+          "kode_dagri": "1209",
+          "nama_dagri": "KAB. ASAHAN",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1209",
+          "nama_bps": "KAB. SIMALUNGUN",
+          "kode_dagri": "1208",
+          "nama_dagri": "KAB. SIMALUNGUN",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1210",
+          "nama_bps": "KAB. DAIRI",
+          "kode_dagri": "1211",
+          "nama_dagri": "KAB. DAIRI",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1211",
+          "nama_bps": "KAB. KARO",
+          "kode_dagri": "1206",
+          "nama_dagri": "KAB. KARO",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1212",
+          "nama_bps": "KAB. DELI SERDANG",
+          "kode_dagri": "1207",
+          "nama_dagri": "KAB. DELI SERDANG",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1213",
+          "nama_bps": "KAB. LANGKAT",
+          "kode_dagri": "1205",
+          "nama_dagri": "KAB. LANGKAT",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1214",
+          "nama_bps": "KAB. NIAS SELATAN",
+          "kode_dagri": "1214",
+          "nama_dagri": "KAB. NIAS SELATAN",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1215",
+          "nama_bps": "KAB. HUMBANG HASUNDUTAN",
+          "kode_dagri": "1216",
+          "nama_dagri": "KAB. HUMBANG HASUNDUTAN",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1216",
+          "nama_bps": "KAB. PAKPAK BHARAT",
+          "kode_dagri": "1215",
+          "nama_dagri": "KAB. PAKPAK BHARAT",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1217",
+          "nama_bps": "KAB. SAMOSIR",
+          "kode_dagri": "1217",
+          "nama_dagri": "KAB. SAMOSIR",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1218",
+          "nama_bps": "KAB. SERDANG BEDAGAI",
+          "kode_dagri": "1218",
+          "nama_dagri": "KAB. SERDANG BEDAGAI",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1219",
+          "nama_bps": "KAB. BATU BARA",
+          "kode_dagri": "1219",
+          "nama_dagri": "KAB. BATU BARA",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1220",
+          "nama_bps": "KAB. PADANG LAWAS UTARA",
+          "kode_dagri": "1220",
+          "nama_dagri": "KAB. PADANG LAWAS UTARA",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1221",
+          "nama_bps": "KAB. PADANG LAWAS",
+          "kode_dagri": "1221",
+          "nama_dagri": "KAB. PADANG LAWAS",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1222",
+          "nama_bps": "KAB. LABUHANBATU SELATAN",
+          "kode_dagri": "1222",
+          "nama_dagri": "KAB. LABUHANBATU SELATAN",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1223",
+          "nama_bps": "KAB. LABUHANBATU UTARA",
+          "kode_dagri": "1223",
+          "nama_dagri": "KAB. LABUHANBATU UTARA",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1224",
+          "nama_bps": "KAB. NIAS UTARA",
+          "kode_dagri": "1224",
+          "nama_dagri": "KAB. NIAS UTARA",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1225",
+          "nama_bps": "KAB. NIAS BARAT",
+          "kode_dagri": "1225",
+          "nama_dagri": "KAB. NIAS BARAT",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1271",
+          "nama_bps": "KOTA SIBOLGA",
+          "kode_dagri": "1273",
+          "nama_dagri": "KOTA SIBOLGA",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1272",
+          "nama_bps": "KOTA TANJUNG BALAI",
+          "kode_dagri": "1274",
+          "nama_dagri": "KOTA TANJUNG BALAI",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1273",
+          "nama_bps": "KOTA PEMATANGSIANTAR",
+          "kode_dagri": "1272",
+          "nama_dagri": "KOTA PEMATANGSIANTAR",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1274",
+          "nama_bps": "KOTA TEBING TINGGI",
+          "kode_dagri": "1276",
+          "nama_dagri": "KOTA TEBING TINGGI",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1275",
+          "nama_bps": "KOTA MEDAN",
+          "kode_dagri": "1271",
+          "nama_dagri": "KOTA MEDAN",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1276",
+          "nama_bps": "KOTA BINJAI",
+          "kode_dagri": "1275",
+          "nama_dagri": "KOTA BINJAI",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1277",
+          "nama_bps": "KOTA PADANG SIDEMPUAN",
+          "kode_dagri": "1277",
+          "nama_dagri": "KOTA PADANG SIDEMPUAN",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1278",
+          "nama_bps": "KOTA GUNUNGSITOLI",
+          "kode_dagri": "1278",
+          "nama_dagri": "KOTA GUNUNGSITOLI",
+          "parent_kode_bps": "12",
+          "province_kode_bps": "12"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "13",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "1301",
+          "nama_bps": "KAB. KEPULAUAN MENTAWAI",
+          "kode_dagri": "1309",
+          "nama_dagri": "KAB. KEPULAUAN MENTAWAI",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1302",
+          "nama_bps": "KAB. PESISIR SELATAN",
+          "kode_dagri": "1301",
+          "nama_dagri": "KAB. PESISIR SELATAN",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1303",
+          "nama_bps": "KAB. SOLOK",
+          "kode_dagri": "1302",
+          "nama_dagri": "KAB. SOLOK",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1304",
+          "nama_bps": "KAB. SIJUNJUNG",
+          "kode_dagri": "1303",
+          "nama_dagri": "KAB. SIJUNJUNG",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1305",
+          "nama_bps": "KAB. TANAH DATAR",
+          "kode_dagri": "1304",
+          "nama_dagri": "KAB. TANAH DATAR",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1306",
+          "nama_bps": "KAB. PADANG PARIAMAN",
+          "kode_dagri": "1305",
+          "nama_dagri": "KAB. PADANG PARIAMAN",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1307",
+          "nama_bps": "KAB. AGAM",
+          "kode_dagri": "1306",
+          "nama_dagri": "KAB. AGAM",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1308",
+          "nama_bps": "KAB. LIMA PULUH KOTA",
+          "kode_dagri": "1307",
+          "nama_dagri": "KAB. LIMA PULUH KOTA",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1309",
+          "nama_bps": "KAB. PASAMAN",
+          "kode_dagri": "1308",
+          "nama_dagri": "KAB. PASAMAN",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1310",
+          "nama_bps": "KAB. SOLOK SELATAN",
+          "kode_dagri": "1311",
+          "nama_dagri": "KAB. SOLOK SELATAN",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1311",
+          "nama_bps": "KAB. DHARMASRAYA",
+          "kode_dagri": "1310",
+          "nama_dagri": "KAB. DHARMASRAYA",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1312",
+          "nama_bps": "KAB. PASAMAN BARAT",
+          "kode_dagri": "1312",
+          "nama_dagri": "KAB. PASAMAN BARAT",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1371",
+          "nama_bps": "KOTA PADANG",
+          "kode_dagri": "1371",
+          "nama_dagri": "KOTA PADANG",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1372",
+          "nama_bps": "KOTA SOLOK",
+          "kode_dagri": "1372",
+          "nama_dagri": "KOTA SOLOK",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1373",
+          "nama_bps": "KOTA SAWAHLUNTO",
+          "kode_dagri": "1373",
+          "nama_dagri": "KOTA SAWAHLUNTO",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1374",
+          "nama_bps": "KOTA PADANG PANJANG",
+          "kode_dagri": "1374",
+          "nama_dagri": "KOTA PADANG PANJANG",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1375",
+          "nama_bps": "KOTA BUKITTINGGI",
+          "kode_dagri": "1375",
+          "nama_dagri": "KOTA BUKITTINGGI",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1376",
+          "nama_bps": "KOTA PAYAKUMBUH",
+          "kode_dagri": "1376",
+          "nama_dagri": "KOTA PAYAKUMBUH",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1377",
+          "nama_bps": "KOTA PARIAMAN",
+          "kode_dagri": "1377",
+          "nama_dagri": "KOTA PARIAMAN",
+          "parent_kode_bps": "13",
+          "province_kode_bps": "13"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "14",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "1401",
+          "nama_bps": "KAB. KUANTAN SINGINGI",
+          "kode_dagri": "1409",
+          "nama_dagri": "KAB. KUANTAN SINGINGI",
+          "parent_kode_bps": "14",
+          "province_kode_bps": "14"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1402",
+          "nama_bps": "KAB. INDRAGIRI HULU",
+          "kode_dagri": "1402",
+          "nama_dagri": "KAB. INDRAGIRI HULU",
+          "parent_kode_bps": "14",
+          "province_kode_bps": "14"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1403",
+          "nama_bps": "KAB. INDRAGIRI HILIR",
+          "kode_dagri": "1404",
+          "nama_dagri": "KAB. INDRAGIRI HILIR",
+          "parent_kode_bps": "14",
+          "province_kode_bps": "14"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1404",
+          "nama_bps": "KAB. PELALAWAN",
+          "kode_dagri": "1405",
+          "nama_dagri": "KAB. PELALAWAN",
+          "parent_kode_bps": "14",
+          "province_kode_bps": "14"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1405",
+          "nama_bps": "KAB. SIAK",
+          "kode_dagri": "1408",
+          "nama_dagri": "KAB. SIAK",
+          "parent_kode_bps": "14",
+          "province_kode_bps": "14"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1406",
+          "nama_bps": "KAB. KAMPAR",
+          "kode_dagri": "1401",
+          "nama_dagri": "KAB. KAMPAR",
+          "parent_kode_bps": "14",
+          "province_kode_bps": "14"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1407",
+          "nama_bps": "KAB. ROKAN HULU",
+          "kode_dagri": "1406",
+          "nama_dagri": "KAB. ROKAN HULU",
+          "parent_kode_bps": "14",
+          "province_kode_bps": "14"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1408",
+          "nama_bps": "KAB. BENGKALIS",
+          "kode_dagri": "1403",
+          "nama_dagri": "KAB. BENGKALIS",
+          "parent_kode_bps": "14",
+          "province_kode_bps": "14"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1409",
+          "nama_bps": "KAB. ROKAN HILIR",
+          "kode_dagri": "1407",
+          "nama_dagri": "KAB. ROKAN HILIR",
+          "parent_kode_bps": "14",
+          "province_kode_bps": "14"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1410",
+          "nama_bps": "KAB. KEPULAUAN MERANTI",
+          "kode_dagri": "1410",
+          "nama_dagri": "KAB. KEPULAUAN MERANTI",
+          "parent_kode_bps": "14",
+          "province_kode_bps": "14"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1471",
+          "nama_bps": "KOTA PEKANBARU",
+          "kode_dagri": "1471",
+          "nama_dagri": "KOTA PEKANBARU",
+          "parent_kode_bps": "14",
+          "province_kode_bps": "14"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1473",
+          "nama_bps": "KOTA DUMAI",
+          "kode_dagri": "1472",
+          "nama_dagri": "KOTA DUMAI",
+          "parent_kode_bps": "14",
+          "province_kode_bps": "14"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "15",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "1501",
+          "nama_bps": "KAB. KERINCI",
+          "kode_dagri": "1501",
+          "nama_dagri": "KAB. KERINCI",
+          "parent_kode_bps": "15",
+          "province_kode_bps": "15"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1502",
+          "nama_bps": "KAB. MERANGIN",
+          "kode_dagri": "1502",
+          "nama_dagri": "KAB. MERANGIN",
+          "parent_kode_bps": "15",
+          "province_kode_bps": "15"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1503",
+          "nama_bps": "KAB. SAROLANGUN",
+          "kode_dagri": "1503",
+          "nama_dagri": "KAB. SAROLANGUN",
+          "parent_kode_bps": "15",
+          "province_kode_bps": "15"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1504",
+          "nama_bps": "KAB. BATANGHARI",
+          "kode_dagri": "1504",
+          "nama_dagri": "KAB. BATANGHARI",
+          "parent_kode_bps": "15",
+          "province_kode_bps": "15"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1505",
+          "nama_bps": "KAB. MUARO JAMBI",
+          "kode_dagri": "1505",
+          "nama_dagri": "KAB. MUARO JAMBI",
+          "parent_kode_bps": "15",
+          "province_kode_bps": "15"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1506",
+          "nama_bps": "KAB. TANJUNG JABUNG TIMUR",
+          "kode_dagri": "1507",
+          "nama_dagri": "KAB. TANJUNG JABUNG TIMUR",
+          "parent_kode_bps": "15",
+          "province_kode_bps": "15"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1507",
+          "nama_bps": "KAB. TANJUNG JABUNG BARAT",
+          "kode_dagri": "1506",
+          "nama_dagri": "KAB. TANJUNG JABUNG BARAT",
+          "parent_kode_bps": "15",
+          "province_kode_bps": "15"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1508",
+          "nama_bps": "KAB. TEBO",
+          "kode_dagri": "1509",
+          "nama_dagri": "KAB. TEBO",
+          "parent_kode_bps": "15",
+          "province_kode_bps": "15"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1509",
+          "nama_bps": "KAB. BUNGO",
+          "kode_dagri": "1508",
+          "nama_dagri": "KAB. BUNGO",
+          "parent_kode_bps": "15",
+          "province_kode_bps": "15"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1571",
+          "nama_bps": "KOTA JAMBI",
+          "kode_dagri": "1571",
+          "nama_dagri": "KOTA JAMBI",
+          "parent_kode_bps": "15",
+          "province_kode_bps": "15"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1572",
+          "nama_bps": "KOTA SUNGAI PENUH",
+          "kode_dagri": "1572",
+          "nama_dagri": "KOTA SUNGAI PENUH",
+          "parent_kode_bps": "15",
+          "province_kode_bps": "15"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "16",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "1601",
+          "nama_bps": "KAB. OGAN KOMERING ULU",
+          "kode_dagri": "1601",
+          "nama_dagri": "KAB. OGAN KOMERING ULU",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1602",
+          "nama_bps": "KAB. OGAN KOMERING ILIR",
+          "kode_dagri": "1602",
+          "nama_dagri": "KAB. OGAN KOMERING ILIR",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1603",
+          "nama_bps": "KAB. MUARA ENIM",
+          "kode_dagri": "1603",
+          "nama_dagri": "KAB. MUARA ENIM",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1604",
+          "nama_bps": "KAB. LAHAT",
+          "kode_dagri": "1604",
+          "nama_dagri": "KAB. LAHAT",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1605",
+          "nama_bps": "KAB. MUSI RAWAS",
+          "kode_dagri": "1605",
+          "nama_dagri": "KAB. MUSI RAWAS",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1606",
+          "nama_bps": "KAB. MUSI BANYUASIN",
+          "kode_dagri": "1606",
+          "nama_dagri": "KAB. MUSI BANYUASIN",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1607",
+          "nama_bps": "KAB. BANYUASIN",
+          "kode_dagri": "1607",
+          "nama_dagri": "KAB. BANYUASIN",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1608",
+          "nama_bps": "KAB. OGAN KOMERING ULU\nSELATAN",
+          "kode_dagri": "1609",
+          "nama_dagri": "KAB. OGAN KOMERING ULU\nSELATAN",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1609",
+          "nama_bps": "KAB. OGAN KOMERING ULU TIMUR",
+          "kode_dagri": "1608",
+          "nama_dagri": "KAB. OGAN KOMERING ULU TIMUR",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1610",
+          "nama_bps": "KAB. OGAN ILIR",
+          "kode_dagri": "1610",
+          "nama_dagri": "KAB. OGAN ILIR",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1611",
+          "nama_bps": "KAB. EMPAT LAWANG",
+          "kode_dagri": "1611",
+          "nama_dagri": "KAB. EMPAT LAWANG",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1612",
+          "nama_bps": "KAB. PENUKAL ABAB LEMATANG\nILIR",
+          "kode_dagri": "1612",
+          "nama_dagri": "KAB. PENUKAL ABAB LEMATANG\nILIR",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1613",
+          "nama_bps": "KAB. MUSI RAWAS UTARA",
+          "kode_dagri": "1613",
+          "nama_dagri": "KAB. MUSI RAWAS UTARA",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1671",
+          "nama_bps": "KOTA PALEMBANG",
+          "kode_dagri": "1671",
+          "nama_dagri": "KOTA PALEMBANG",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1672",
+          "nama_bps": "KOTA PRABUMULIH",
+          "kode_dagri": "1674",
+          "nama_dagri": "KOTA PRABUMULIH",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1673",
+          "nama_bps": "KOTA PAGAR ALAM",
+          "kode_dagri": "1672",
+          "nama_dagri": "KOTA PAGAR ALAM",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1674",
+          "nama_bps": "KOTA LUBUK LINGGAU",
+          "kode_dagri": "1673",
+          "nama_dagri": "KOTA LUBUK LINGGAU",
+          "parent_kode_bps": "16",
+          "province_kode_bps": "16"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "17",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "1701",
+          "nama_bps": "KAB. BENGKULU SELATAN",
+          "kode_dagri": "1701",
+          "nama_dagri": "KAB. BENGKULU SELATAN",
+          "parent_kode_bps": "17",
+          "province_kode_bps": "17"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1702",
+          "nama_bps": "KAB. REJANG LEBONG",
+          "kode_dagri": "1702",
+          "nama_dagri": "KAB. REJANG LEBONG",
+          "parent_kode_bps": "17",
+          "province_kode_bps": "17"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1703",
+          "nama_bps": "KAB. BENGKULU UTARA",
+          "kode_dagri": "1703",
+          "nama_dagri": "KAB. BENGKULU UTARA",
+          "parent_kode_bps": "17",
+          "province_kode_bps": "17"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1704",
+          "nama_bps": "KAB. KAUR",
+          "kode_dagri": "1704",
+          "nama_dagri": "KAB. KAUR",
+          "parent_kode_bps": "17",
+          "province_kode_bps": "17"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1705",
+          "nama_bps": "KAB. SELUMA",
+          "kode_dagri": "1705",
+          "nama_dagri": "KAB. SELUMA",
+          "parent_kode_bps": "17",
+          "province_kode_bps": "17"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1706",
+          "nama_bps": "KAB. MUKO MUKO",
+          "kode_dagri": "1706",
+          "nama_dagri": "KAB. MUKO MUKO",
+          "parent_kode_bps": "17",
+          "province_kode_bps": "17"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1707",
+          "nama_bps": "KAB. LEBONG",
+          "kode_dagri": "1707",
+          "nama_dagri": "KAB. LEBONG",
+          "parent_kode_bps": "17",
+          "province_kode_bps": "17"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1708",
+          "nama_bps": "KAB. KEPAHIANG",
+          "kode_dagri": "1708",
+          "nama_dagri": "KAB. KEPAHIANG",
+          "parent_kode_bps": "17",
+          "province_kode_bps": "17"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1709",
+          "nama_bps": "KAB. BENGKULU TENGAH",
+          "kode_dagri": "1709",
+          "nama_dagri": "KAB. BENGKULU TENGAH",
+          "parent_kode_bps": "17",
+          "province_kode_bps": "17"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1771",
+          "nama_bps": "KOTA BENGKULU",
+          "kode_dagri": "1771",
+          "nama_dagri": "KOTA BENGKULU",
+          "parent_kode_bps": "17",
+          "province_kode_bps": "17"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "18",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "1801",
+          "nama_bps": "KAB. LAMPUNG BARAT",
+          "kode_dagri": "1804",
+          "nama_dagri": "KAB. LAMPUNG BARAT",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1802",
+          "nama_bps": "KAB. TANGGAMUS",
+          "kode_dagri": "1806",
+          "nama_dagri": "KAB. TANGGAMUS",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1803",
+          "nama_bps": "KAB. LAMPUNG SELATAN",
+          "kode_dagri": "1801",
+          "nama_dagri": "KAB. LAMPUNG SELATAN",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1804",
+          "nama_bps": "KAB. LAMPUNG TIMUR",
+          "kode_dagri": "1807",
+          "nama_dagri": "KAB. LAMPUNG TIMUR",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1805",
+          "nama_bps": "KAB. LAMPUNG TENGAH",
+          "kode_dagri": "1802",
+          "nama_dagri": "KAB. LAMPUNG TENGAH",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1806",
+          "nama_bps": "KAB. LAMPUNG UTARA",
+          "kode_dagri": "1803",
+          "nama_dagri": "KAB. LAMPUNG UTARA",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1807",
+          "nama_bps": "KAB. WAY KANAN",
+          "kode_dagri": "1808",
+          "nama_dagri": "KAB. WAY KANAN",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1808",
+          "nama_bps": "KAB. TULANG BAWANG",
+          "kode_dagri": "1805",
+          "nama_dagri": "KAB. TULANG BAWANG",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1809",
+          "nama_bps": "KAB. PESAWARAN",
+          "kode_dagri": "1809",
+          "nama_dagri": "KAB. PESAWARAN",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1810",
+          "nama_bps": "KAB. PRINGSEWU",
+          "kode_dagri": "1810",
+          "nama_dagri": "KAB. PRINGSEWU",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1811",
+          "nama_bps": "KAB. MESUJI",
+          "kode_dagri": "1811",
+          "nama_dagri": "KAB. MESUJI",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1812",
+          "nama_bps": "KAB. TULANG BAWANG BARAT",
+          "kode_dagri": "1812",
+          "nama_dagri": "KAB. TULANG BAWANG BARAT",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1813",
+          "nama_bps": "KAB. PESISIR BARAT",
+          "kode_dagri": "1813",
+          "nama_dagri": "KAB. PESISIR BARAT",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1871",
+          "nama_bps": "KOTA BANDAR LAMPUNG",
+          "kode_dagri": "1871",
+          "nama_dagri": "KOTA BANDAR LAMPUNG",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1872",
+          "nama_bps": "KOTA METRO",
+          "kode_dagri": "1872",
+          "nama_dagri": "KOTA METRO",
+          "parent_kode_bps": "18",
+          "province_kode_bps": "18"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "19",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "1901",
+          "nama_bps": "KAB. BANGKA",
+          "kode_dagri": "1901",
+          "nama_dagri": "KAB. BANGKA",
+          "parent_kode_bps": "19",
+          "province_kode_bps": "19"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1902",
+          "nama_bps": "KAB. BELITUNG",
+          "kode_dagri": "1902",
+          "nama_dagri": "KAB. BELITUNG",
+          "parent_kode_bps": "19",
+          "province_kode_bps": "19"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1903",
+          "nama_bps": "KAB. BANGKA BARAT",
+          "kode_dagri": "1905",
+          "nama_dagri": "KAB. BANGKA BARAT",
+          "parent_kode_bps": "19",
+          "province_kode_bps": "19"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1904",
+          "nama_bps": "KAB. BANGKA TENGAH",
+          "kode_dagri": "1904",
+          "nama_dagri": "KAB. BANGKA TENGAH",
+          "parent_kode_bps": "19",
+          "province_kode_bps": "19"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1905",
+          "nama_bps": "KAB. BANGKA SELATAN",
+          "kode_dagri": "1903",
+          "nama_dagri": "KAB. BANGKA SELATAN",
+          "parent_kode_bps": "19",
+          "province_kode_bps": "19"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1906",
+          "nama_bps": "KAB. BELITUNG TIMUR",
+          "kode_dagri": "1906",
+          "nama_dagri": "KAB. BELITUNG TIMUR",
+          "parent_kode_bps": "19",
+          "province_kode_bps": "19"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "1971",
+          "nama_bps": "KOTA PANGKAL PINANG",
+          "kode_dagri": "1971",
+          "nama_dagri": "KOTA PANGKAL PINANG",
+          "parent_kode_bps": "19",
+          "province_kode_bps": "19"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "21",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "2101",
+          "nama_bps": "KAB. KARIMUN",
+          "kode_dagri": "2102",
+          "nama_dagri": "KAB. KARIMUN",
+          "parent_kode_bps": "21",
+          "province_kode_bps": "21"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "2102",
+          "nama_bps": "KAB. BINTAN",
+          "kode_dagri": "2101",
+          "nama_dagri": "KAB. BINTAN",
+          "parent_kode_bps": "21",
+          "province_kode_bps": "21"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "2103",
+          "nama_bps": "KAB. NATUNA",
+          "kode_dagri": "2103",
+          "nama_dagri": "KAB. NATUNA",
+          "parent_kode_bps": "21",
+          "province_kode_bps": "21"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "2104",
+          "nama_bps": "KAB. LINGGA",
+          "kode_dagri": "2104",
+          "nama_dagri": "KAB. LINGGA",
+          "parent_kode_bps": "21",
+          "province_kode_bps": "21"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "2105",
+          "nama_bps": "KAB. KEPULAUAN ANAMBAS",
+          "kode_dagri": "2105",
+          "nama_dagri": "KAB. KEPULAUAN ANAMBAS",
+          "parent_kode_bps": "21",
+          "province_kode_bps": "21"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "2171",
+          "nama_bps": "KOTA BATAM",
+          "kode_dagri": "2171",
+          "nama_dagri": "KOTA BATAM",
+          "parent_kode_bps": "21",
+          "province_kode_bps": "21"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "2172",
+          "nama_bps": "KOTA TANJUNG PINANG",
+          "kode_dagri": "2172",
+          "nama_dagri": "KOTA TANJUNG PINANG",
+          "parent_kode_bps": "21",
+          "province_kode_bps": "21"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "31",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "3101",
+          "nama_bps": "KAB. ADM. KEP. SERIBU",
+          "kode_dagri": "3101",
+          "nama_dagri": "KAB. ADM. KEP. SERIBU",
+          "parent_kode_bps": "31",
+          "province_kode_bps": "31"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3171",
+          "nama_bps": "KOTA ADM. JAKARTA SELATAN",
+          "kode_dagri": "3174",
+          "nama_dagri": "KOTA ADM. JAKARTA SELATAN",
+          "parent_kode_bps": "31",
+          "province_kode_bps": "31"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3172",
+          "nama_bps": "KOTA ADM. JAKARTA TIMUR",
+          "kode_dagri": "3175",
+          "nama_dagri": "KOTA ADM. JAKARTA TIMUR",
+          "parent_kode_bps": "31",
+          "province_kode_bps": "31"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3173",
+          "nama_bps": "KOTA ADM. JAKARTA PUSAT",
+          "kode_dagri": "3171",
+          "nama_dagri": "KOTA ADM. JAKARTA PUSAT",
+          "parent_kode_bps": "31",
+          "province_kode_bps": "31"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3174",
+          "nama_bps": "KOTA ADM. JAKARTA BARAT",
+          "kode_dagri": "3173",
+          "nama_dagri": "KOTA ADM. JAKARTA BARAT",
+          "parent_kode_bps": "31",
+          "province_kode_bps": "31"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3175",
+          "nama_bps": "KOTA ADM. JAKARTA UTARA",
+          "kode_dagri": "3172",
+          "nama_dagri": "KOTA ADM. JAKARTA UTARA",
+          "parent_kode_bps": "31",
+          "province_kode_bps": "31"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "32",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "3201",
+          "nama_bps": "KAB. BOGOR",
+          "kode_dagri": "3201",
+          "nama_dagri": "KAB. BOGOR",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3202",
+          "nama_bps": "KAB. SUKABUMI",
+          "kode_dagri": "3202",
+          "nama_dagri": "KAB. SUKABUMI",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3203",
+          "nama_bps": "KAB. CIANJUR",
+          "kode_dagri": "3203",
+          "nama_dagri": "KAB. CIANJUR",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3204",
+          "nama_bps": "KAB. BANDUNG",
+          "kode_dagri": "3204",
+          "nama_dagri": "KAB. BANDUNG",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3205",
+          "nama_bps": "KAB. GARUT",
+          "kode_dagri": "3205",
+          "nama_dagri": "KAB. GARUT",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3206",
+          "nama_bps": "KAB. TASIKMALAYA",
+          "kode_dagri": "3206",
+          "nama_dagri": "KAB. TASIKMALAYA",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3207",
+          "nama_bps": "KAB. CIAMIS",
+          "kode_dagri": "3207",
+          "nama_dagri": "KAB. CIAMIS",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3208",
+          "nama_bps": "KAB. KUNINGAN",
+          "kode_dagri": "3208",
+          "nama_dagri": "KAB. KUNINGAN",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3209",
+          "nama_bps": "KAB. CIREBON",
+          "kode_dagri": "3209",
+          "nama_dagri": "KAB. CIREBON",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3210",
+          "nama_bps": "KAB. MAJALENGKA",
+          "kode_dagri": "3210",
+          "nama_dagri": "KAB. MAJALENGKA",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3211",
+          "nama_bps": "KAB. SUMEDANG",
+          "kode_dagri": "3211",
+          "nama_dagri": "KAB. SUMEDANG",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3212",
+          "nama_bps": "KAB. INDRAMAYU",
+          "kode_dagri": "3212",
+          "nama_dagri": "KAB. INDRAMAYU",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3213",
+          "nama_bps": "KAB. SUBANG",
+          "kode_dagri": "3213",
+          "nama_dagri": "KAB. SUBANG",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3214",
+          "nama_bps": "KAB. PURWAKARTA",
+          "kode_dagri": "3214",
+          "nama_dagri": "KAB. PURWAKARTA",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3215",
+          "nama_bps": "KAB. KARAWANG",
+          "kode_dagri": "3215",
+          "nama_dagri": "KAB. KARAWANG",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3216",
+          "nama_bps": "KAB. BEKASI",
+          "kode_dagri": "3216",
+          "nama_dagri": "KAB. BEKASI",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3217",
+          "nama_bps": "KAB. BANDUNG BARAT",
+          "kode_dagri": "3217",
+          "nama_dagri": "KAB. BANDUNG BARAT",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3218",
+          "nama_bps": "KAB. PANGANDARAN",
+          "kode_dagri": "3218",
+          "nama_dagri": "KAB. PANGANDARAN",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3271",
+          "nama_bps": "KOTA BOGOR",
+          "kode_dagri": "3271",
+          "nama_dagri": "KOTA BOGOR",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3272",
+          "nama_bps": "KOTA SUKABUMI",
+          "kode_dagri": "3272",
+          "nama_dagri": "KOTA SUKABUMI",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3273",
+          "nama_bps": "KOTA BANDUNG",
+          "kode_dagri": "3273",
+          "nama_dagri": "KOTA BANDUNG",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3274",
+          "nama_bps": "KOTA CIREBON",
+          "kode_dagri": "3274",
+          "nama_dagri": "KOTA CIREBON",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3275",
+          "nama_bps": "KOTA BEKASI",
+          "kode_dagri": "3275",
+          "nama_dagri": "KOTA BEKASI",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3276",
+          "nama_bps": "KOTA DEPOK",
+          "kode_dagri": "3276",
+          "nama_dagri": "KOTA DEPOK",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3277",
+          "nama_bps": "KOTA CIMAHI",
+          "kode_dagri": "3277",
+          "nama_dagri": "KOTA CIMAHI",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3278",
+          "nama_bps": "KOTA TASIKMALAYA",
+          "kode_dagri": "3278",
+          "nama_dagri": "KOTA TASIKMALAYA",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3279",
+          "nama_bps": "KOTA BANJAR",
+          "kode_dagri": "3279",
+          "nama_dagri": "KOTA BANJAR",
+          "parent_kode_bps": "32",
+          "province_kode_bps": "32"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "33",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "3301",
+          "nama_bps": "KAB. CILACAP",
+          "kode_dagri": "3301",
+          "nama_dagri": "KAB. CILACAP",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3302",
+          "nama_bps": "KAB. BANYUMAS",
+          "kode_dagri": "3302",
+          "nama_dagri": "KAB. BANYUMAS",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3303",
+          "nama_bps": "KAB. PURBALINGGA",
+          "kode_dagri": "3303",
+          "nama_dagri": "KAB. PURBALINGGA",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3304",
+          "nama_bps": "KAB. BANJARNEGARA",
+          "kode_dagri": "3304",
+          "nama_dagri": "KAB. BANJARNEGARA",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3305",
+          "nama_bps": "KAB. KEBUMEN",
+          "kode_dagri": "3305",
+          "nama_dagri": "KAB. KEBUMEN",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3306",
+          "nama_bps": "KAB. PURWOREJO",
+          "kode_dagri": "3306",
+          "nama_dagri": "KAB. PURWOREJO",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3307",
+          "nama_bps": "KAB. WONOSOBO",
+          "kode_dagri": "3307",
+          "nama_dagri": "KAB. WONOSOBO",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3308",
+          "nama_bps": "KAB. MAGELANG",
+          "kode_dagri": "3308",
+          "nama_dagri": "KAB. MAGELANG",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3309",
+          "nama_bps": "KAB. BOYOLALI",
+          "kode_dagri": "3309",
+          "nama_dagri": "KAB. BOYOLALI",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3310",
+          "nama_bps": "KAB. KLATEN",
+          "kode_dagri": "3310",
+          "nama_dagri": "KAB. KLATEN",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3311",
+          "nama_bps": "KAB. SUKOHARJO",
+          "kode_dagri": "3311",
+          "nama_dagri": "KAB. SUKOHARJO",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3312",
+          "nama_bps": "KAB. WONOGIRI",
+          "kode_dagri": "3312",
+          "nama_dagri": "KAB. WONOGIRI",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3313",
+          "nama_bps": "KAB. KARANGANYAR",
+          "kode_dagri": "3313",
+          "nama_dagri": "KAB. KARANGANYAR",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3314",
+          "nama_bps": "KAB. SRAGEN",
+          "kode_dagri": "3314",
+          "nama_dagri": "KAB. SRAGEN",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3315",
+          "nama_bps": "KAB. GROBOGAN",
+          "kode_dagri": "3315",
+          "nama_dagri": "KAB. GROBOGAN",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3316",
+          "nama_bps": "KAB. BLORA",
+          "kode_dagri": "3316",
+          "nama_dagri": "KAB. BLORA",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3317",
+          "nama_bps": "KAB. REMBANG",
+          "kode_dagri": "3317",
+          "nama_dagri": "KAB. REMBANG",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3318",
+          "nama_bps": "KAB. PATI",
+          "kode_dagri": "3318",
+          "nama_dagri": "KAB. PATI",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3319",
+          "nama_bps": "KAB. KUDUS",
+          "kode_dagri": "3319",
+          "nama_dagri": "KAB. KUDUS",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3320",
+          "nama_bps": "KAB. JEPARA",
+          "kode_dagri": "3320",
+          "nama_dagri": "KAB. JEPARA",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3321",
+          "nama_bps": "KAB. DEMAK",
+          "kode_dagri": "3321",
+          "nama_dagri": "KAB. DEMAK",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3322",
+          "nama_bps": "KAB. SEMARANG",
+          "kode_dagri": "3322",
+          "nama_dagri": "KAB. SEMARANG",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3323",
+          "nama_bps": "KAB. TEMANGGUNG",
+          "kode_dagri": "3323",
+          "nama_dagri": "KAB. TEMANGGUNG",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3324",
+          "nama_bps": "KAB. KENDAL",
+          "kode_dagri": "3324",
+          "nama_dagri": "KAB. KENDAL",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3325",
+          "nama_bps": "KAB. BATANG",
+          "kode_dagri": "3325",
+          "nama_dagri": "KAB. BATANG",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3326",
+          "nama_bps": "KAB. PEKALONGAN",
+          "kode_dagri": "3326",
+          "nama_dagri": "KAB. PEKALONGAN",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3327",
+          "nama_bps": "KAB. PEMALANG",
+          "kode_dagri": "3327",
+          "nama_dagri": "KAB. PEMALANG",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3328",
+          "nama_bps": "KAB. TEGAL",
+          "kode_dagri": "3328",
+          "nama_dagri": "KAB. TEGAL",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3329",
+          "nama_bps": "KAB. BREBES",
+          "kode_dagri": "3329",
+          "nama_dagri": "KAB. BREBES",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3371",
+          "nama_bps": "KOTA MAGELANG",
+          "kode_dagri": "3371",
+          "nama_dagri": "KOTA MAGELANG",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3372",
+          "nama_bps": "KOTA SURAKARTA",
+          "kode_dagri": "3372",
+          "nama_dagri": "KOTA SURAKARTA",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3373",
+          "nama_bps": "KOTA SALATIGA",
+          "kode_dagri": "3373",
+          "nama_dagri": "KOTA SALATIGA",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3374",
+          "nama_bps": "KOTA SEMARANG",
+          "kode_dagri": "3374",
+          "nama_dagri": "KOTA SEMARANG",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3375",
+          "nama_bps": "KOTA PEKALONGAN",
+          "kode_dagri": "3375",
+          "nama_dagri": "KOTA PEKALONGAN",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3376",
+          "nama_bps": "KOTA TEGAL",
+          "kode_dagri": "3376",
+          "nama_dagri": "KOTA TEGAL",
+          "parent_kode_bps": "33",
+          "province_kode_bps": "33"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "34",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "3401",
+          "nama_bps": "KAB. KULON PROGO",
+          "kode_dagri": "3401",
+          "nama_dagri": "KAB. KULON PROGO",
+          "parent_kode_bps": "34",
+          "province_kode_bps": "34"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3402",
+          "nama_bps": "KAB. BANTUL",
+          "kode_dagri": "3402",
+          "nama_dagri": "KAB. BANTUL",
+          "parent_kode_bps": "34",
+          "province_kode_bps": "34"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3403",
+          "nama_bps": "KAB. GUNUNGKIDUL",
+          "kode_dagri": "3403",
+          "nama_dagri": "KAB. GUNUNGKIDUL",
+          "parent_kode_bps": "34",
+          "province_kode_bps": "34"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3404",
+          "nama_bps": "KAB. SLEMAN",
+          "kode_dagri": "3404",
+          "nama_dagri": "KAB. SLEMAN",
+          "parent_kode_bps": "34",
+          "province_kode_bps": "34"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3471",
+          "nama_bps": "KOTA YOGYAKARTA",
+          "kode_dagri": "3471",
+          "nama_dagri": "KOTA YOGYAKARTA",
+          "parent_kode_bps": "34",
+          "province_kode_bps": "34"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "35",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "3501",
+          "nama_bps": "KAB. PACITAN",
+          "kode_dagri": "3501",
+          "nama_dagri": "KAB. PACITAN",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3502",
+          "nama_bps": "KAB. PONOROGO",
+          "kode_dagri": "3502",
+          "nama_dagri": "KAB. PONOROGO",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3503",
+          "nama_bps": "KAB. TRENGGALEK",
+          "kode_dagri": "3503",
+          "nama_dagri": "KAB. TRENGGALEK",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3504",
+          "nama_bps": "KAB. TULUNGAGUNG",
+          "kode_dagri": "3504",
+          "nama_dagri": "KAB. TULUNGAGUNG",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3505",
+          "nama_bps": "KAB. BLITAR",
+          "kode_dagri": "3505",
+          "nama_dagri": "KAB. BLITAR",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3506",
+          "nama_bps": "KAB. KEDIRI",
+          "kode_dagri": "3506",
+          "nama_dagri": "KAB. KEDIRI",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3507",
+          "nama_bps": "KAB. MALANG",
+          "kode_dagri": "3507",
+          "nama_dagri": "KAB. MALANG",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3508",
+          "nama_bps": "KAB. LUMAJANG",
+          "kode_dagri": "3508",
+          "nama_dagri": "KAB. LUMAJANG",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3509",
+          "nama_bps": "KAB. JEMBER",
+          "kode_dagri": "3509",
+          "nama_dagri": "KAB. JEMBER",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3510",
+          "nama_bps": "KAB. BANYUWANGI",
+          "kode_dagri": "3510",
+          "nama_dagri": "KAB. BANYUWANGI",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3511",
+          "nama_bps": "KAB. BONDOWOSO",
+          "kode_dagri": "3511",
+          "nama_dagri": "KAB. BONDOWOSO",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3512",
+          "nama_bps": "KAB. SITUBONDO",
+          "kode_dagri": "3512",
+          "nama_dagri": "KAB. SITUBONDO",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3513",
+          "nama_bps": "KAB. PROBOLINGGO",
+          "kode_dagri": "3513",
+          "nama_dagri": "KAB. PROBOLINGGO",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3514",
+          "nama_bps": "KAB. PASURUAN",
+          "kode_dagri": "3514",
+          "nama_dagri": "KAB. PASURUAN",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3515",
+          "nama_bps": "KAB. SIDOARJO",
+          "kode_dagri": "3515",
+          "nama_dagri": "KAB. SIDOARJO",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3516",
+          "nama_bps": "KAB. MOJOKERTO",
+          "kode_dagri": "3516",
+          "nama_dagri": "KAB. MOJOKERTO",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3517",
+          "nama_bps": "KAB. JOMBANG",
+          "kode_dagri": "3517",
+          "nama_dagri": "KAB. JOMBANG",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3518",
+          "nama_bps": "KAB. NGANJUK",
+          "kode_dagri": "3518",
+          "nama_dagri": "KAB. NGANJUK",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3519",
+          "nama_bps": "KAB. MADIUN",
+          "kode_dagri": "3519",
+          "nama_dagri": "KAB. MADIUN",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3520",
+          "nama_bps": "KAB. MAGETAN",
+          "kode_dagri": "3520",
+          "nama_dagri": "KAB. MAGETAN",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3521",
+          "nama_bps": "KAB. NGAWI",
+          "kode_dagri": "3521",
+          "nama_dagri": "KAB. NGAWI",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3522",
+          "nama_bps": "KAB. BOJONEGORO",
+          "kode_dagri": "3522",
+          "nama_dagri": "KAB. BOJONEGORO",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3523",
+          "nama_bps": "KAB. TUBAN",
+          "kode_dagri": "3523",
+          "nama_dagri": "KAB. TUBAN",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3524",
+          "nama_bps": "KAB. LAMONGAN",
+          "kode_dagri": "3524",
+          "nama_dagri": "KAB. LAMONGAN",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3525",
+          "nama_bps": "KAB. GRESIK",
+          "kode_dagri": "3525",
+          "nama_dagri": "KAB. GRESIK",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3526",
+          "nama_bps": "KAB. BANGKALAN",
+          "kode_dagri": "3526",
+          "nama_dagri": "KAB. BANGKALAN",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3527",
+          "nama_bps": "KAB. SAMPANG",
+          "kode_dagri": "3527",
+          "nama_dagri": "KAB. SAMPANG",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3528",
+          "nama_bps": "KAB. PAMEKASAN",
+          "kode_dagri": "3528",
+          "nama_dagri": "KAB. PAMEKASAN",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3529",
+          "nama_bps": "KAB. SUMENEP",
+          "kode_dagri": "3529",
+          "nama_dagri": "KAB. SUMENEP",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3571",
+          "nama_bps": "KOTA KEDIRI",
+          "kode_dagri": "3571",
+          "nama_dagri": "KOTA KEDIRI",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3572",
+          "nama_bps": "KOTA BLITAR",
+          "kode_dagri": "3572",
+          "nama_dagri": "KOTA BLITAR",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3573",
+          "nama_bps": "KOTA MALANG",
+          "kode_dagri": "3573",
+          "nama_dagri": "KOTA MALANG",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3574",
+          "nama_bps": "KOTA PROBOLINGGO",
+          "kode_dagri": "3574",
+          "nama_dagri": "KOTA PROBOLINGGO",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3575",
+          "nama_bps": "KOTA PASURUAN",
+          "kode_dagri": "3575",
+          "nama_dagri": "KOTA PASURUAN",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3576",
+          "nama_bps": "KOTA MOJOKERTO",
+          "kode_dagri": "3576",
+          "nama_dagri": "KOTA MOJOKERTO",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3577",
+          "nama_bps": "KOTA MADIUN",
+          "kode_dagri": "3577",
+          "nama_dagri": "KOTA MADIUN",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3578",
+          "nama_bps": "KOTA SURABAYA",
+          "kode_dagri": "3578",
+          "nama_dagri": "KOTA SURABAYA",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3579",
+          "nama_bps": "KOTA BATU",
+          "kode_dagri": "3579",
+          "nama_dagri": "KOTA BATU",
+          "parent_kode_bps": "35",
+          "province_kode_bps": "35"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "36",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "3601",
+          "nama_bps": "KAB. PANDEGLANG",
+          "kode_dagri": "3601",
+          "nama_dagri": "KAB. PANDEGLANG",
+          "parent_kode_bps": "36",
+          "province_kode_bps": "36"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3602",
+          "nama_bps": "KAB. LEBAK",
+          "kode_dagri": "3602",
+          "nama_dagri": "KAB. LEBAK",
+          "parent_kode_bps": "36",
+          "province_kode_bps": "36"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3603",
+          "nama_bps": "KAB. TANGERANG",
+          "kode_dagri": "3603",
+          "nama_dagri": "KAB. TANGERANG",
+          "parent_kode_bps": "36",
+          "province_kode_bps": "36"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3604",
+          "nama_bps": "KAB. SERANG",
+          "kode_dagri": "3604",
+          "nama_dagri": "KAB. SERANG",
+          "parent_kode_bps": "36",
+          "province_kode_bps": "36"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3671",
+          "nama_bps": "KOTA TANGERANG",
+          "kode_dagri": "3671",
+          "nama_dagri": "KOTA TANGERANG",
+          "parent_kode_bps": "36",
+          "province_kode_bps": "36"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3672",
+          "nama_bps": "KOTA CILEGON",
+          "kode_dagri": "3672",
+          "nama_dagri": "KOTA CILEGON",
+          "parent_kode_bps": "36",
+          "province_kode_bps": "36"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3673",
+          "nama_bps": "KOTA SERANG",
+          "kode_dagri": "3673",
+          "nama_dagri": "KOTA SERANG",
+          "parent_kode_bps": "36",
+          "province_kode_bps": "36"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "3674",
+          "nama_bps": "KOTA TANGERANG SELATAN",
+          "kode_dagri": "3674",
+          "nama_dagri": "KOTA TANGERANG SELATAN",
+          "parent_kode_bps": "36",
+          "province_kode_bps": "36"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "51",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "5101",
+          "nama_bps": "KAB. JEMBRANA",
+          "kode_dagri": "5101",
+          "nama_dagri": "KAB. JEMBRANA",
+          "parent_kode_bps": "51",
+          "province_kode_bps": "51"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5102",
+          "nama_bps": "KAB. TABANAN",
+          "kode_dagri": "5102",
+          "nama_dagri": "KAB. TABANAN",
+          "parent_kode_bps": "51",
+          "province_kode_bps": "51"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5103",
+          "nama_bps": "KAB. BADUNG",
+          "kode_dagri": "5103",
+          "nama_dagri": "KAB. BADUNG",
+          "parent_kode_bps": "51",
+          "province_kode_bps": "51"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5104",
+          "nama_bps": "KAB. GIANYAR",
+          "kode_dagri": "5104",
+          "nama_dagri": "KAB. GIANYAR",
+          "parent_kode_bps": "51",
+          "province_kode_bps": "51"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5105",
+          "nama_bps": "KAB. KLUNGKUNG",
+          "kode_dagri": "5105",
+          "nama_dagri": "KAB. KLUNGKUNG",
+          "parent_kode_bps": "51",
+          "province_kode_bps": "51"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5106",
+          "nama_bps": "KAB. BANGLI",
+          "kode_dagri": "5106",
+          "nama_dagri": "KAB. BANGLI",
+          "parent_kode_bps": "51",
+          "province_kode_bps": "51"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5107",
+          "nama_bps": "KAB. KARANGASEM",
+          "kode_dagri": "5107",
+          "nama_dagri": "KAB. KARANGASEM",
+          "parent_kode_bps": "51",
+          "province_kode_bps": "51"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5108",
+          "nama_bps": "KAB. BULELENG",
+          "kode_dagri": "5108",
+          "nama_dagri": "KAB. BULELENG",
+          "parent_kode_bps": "51",
+          "province_kode_bps": "51"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5171",
+          "nama_bps": "KOTA DENPASAR",
+          "kode_dagri": "5171",
+          "nama_dagri": "KOTA DENPASAR",
+          "parent_kode_bps": "51",
+          "province_kode_bps": "51"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "52",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "5201",
+          "nama_bps": "KAB. LOMBOK BARAT",
+          "kode_dagri": "5201",
+          "nama_dagri": "KAB. LOMBOK BARAT",
+          "parent_kode_bps": "52",
+          "province_kode_bps": "52"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5202",
+          "nama_bps": "KAB. LOMBOK TENGAH",
+          "kode_dagri": "5202",
+          "nama_dagri": "KAB. LOMBOK TENGAH",
+          "parent_kode_bps": "52",
+          "province_kode_bps": "52"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5203",
+          "nama_bps": "KAB. LOMBOK TIMUR",
+          "kode_dagri": "5203",
+          "nama_dagri": "KAB. LOMBOK TIMUR",
+          "parent_kode_bps": "52",
+          "province_kode_bps": "52"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5204",
+          "nama_bps": "KAB. SUMBAWA",
+          "kode_dagri": "5204",
+          "nama_dagri": "KAB. SUMBAWA",
+          "parent_kode_bps": "52",
+          "province_kode_bps": "52"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5205",
+          "nama_bps": "KAB. DOMPU",
+          "kode_dagri": "5205",
+          "nama_dagri": "KAB. DOMPU",
+          "parent_kode_bps": "52",
+          "province_kode_bps": "52"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5206",
+          "nama_bps": "KAB. BIMA",
+          "kode_dagri": "5206",
+          "nama_dagri": "KAB. BIMA",
+          "parent_kode_bps": "52",
+          "province_kode_bps": "52"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5207",
+          "nama_bps": "KAB. SUMBAWA BARAT",
+          "kode_dagri": "5207",
+          "nama_dagri": "KAB. SUMBAWA BARAT",
+          "parent_kode_bps": "52",
+          "province_kode_bps": "52"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5208",
+          "nama_bps": "KAB. LOMBOK UTARA",
+          "kode_dagri": "5208",
+          "nama_dagri": "KAB. LOMBOK UTARA",
+          "parent_kode_bps": "52",
+          "province_kode_bps": "52"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5271",
+          "nama_bps": "KOTA MATARAM",
+          "kode_dagri": "5271",
+          "nama_dagri": "KOTA MATARAM",
+          "parent_kode_bps": "52",
+          "province_kode_bps": "52"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5272",
+          "nama_bps": "KOTA BIMA",
+          "kode_dagri": "5272",
+          "nama_dagri": "KOTA BIMA",
+          "parent_kode_bps": "52",
+          "province_kode_bps": "52"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "53",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "5301",
+          "nama_bps": "KAB. SUMBA BARAT",
+          "kode_dagri": "5312",
+          "nama_dagri": "KAB. SUMBA BARAT",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5302",
+          "nama_bps": "KAB. SUMBA TIMUR",
+          "kode_dagri": "5311",
+          "nama_dagri": "KAB. SUMBA TIMUR",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5303",
+          "nama_bps": "KAB. KUPANG",
+          "kode_dagri": "5301",
+          "nama_dagri": "KAB. KUPANG",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5304",
+          "nama_bps": "KAB TIMOR TENGAH SELATAN",
+          "kode_dagri": "5302",
+          "nama_dagri": "KAB TIMOR TENGAH SELATAN",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5305",
+          "nama_bps": "KAB. TIMOR TENGAH UTARA",
+          "kode_dagri": "5303",
+          "nama_dagri": "KAB. TIMOR TENGAH UTARA",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5306",
+          "nama_bps": "KAB. BELU",
+          "kode_dagri": "5304",
+          "nama_dagri": "KAB. BELU",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5307",
+          "nama_bps": "KAB. ALOR",
+          "kode_dagri": "5305",
+          "nama_dagri": "KAB. ALOR",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5308",
+          "nama_bps": "KAB. LEMBATA",
+          "kode_dagri": "5313",
+          "nama_dagri": "KAB. LEMBATA",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5309",
+          "nama_bps": "KAB. FLORES TIMUR",
+          "kode_dagri": "5306",
+          "nama_dagri": "KAB. FLORES TIMUR",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5310",
+          "nama_bps": "KAB. SIKKA",
+          "kode_dagri": "5307",
+          "nama_dagri": "KAB. SIKKA",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5311",
+          "nama_bps": "KAB. ENDE",
+          "kode_dagri": "5308",
+          "nama_dagri": "KAB. ENDE",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5312",
+          "nama_bps": "KAB. NGADA",
+          "kode_dagri": "5309",
+          "nama_dagri": "KAB. NGADA",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5313",
+          "nama_bps": "KAB. MANGGARAI",
+          "kode_dagri": "5310",
+          "nama_dagri": "KAB. MANGGARAI",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5314",
+          "nama_bps": "KAB. ROTE NDAO",
+          "kode_dagri": "5314",
+          "nama_dagri": "KAB. ROTE NDAO",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5315",
+          "nama_bps": "KAB. MANGGARAI BARAT",
+          "kode_dagri": "5315",
+          "nama_dagri": "KAB. MANGGARAI BARAT",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5316",
+          "nama_bps": "KAB. SUMBA TENGAH",
+          "kode_dagri": "5317",
+          "nama_dagri": "KAB. SUMBA TENGAH",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5317",
+          "nama_bps": "KAB. SUMBA BARAT DAYA",
+          "kode_dagri": "5318",
+          "nama_dagri": "KAB. SUMBA BARAT DAYA",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5318",
+          "nama_bps": "KAB. NAGEKEO",
+          "kode_dagri": "5316",
+          "nama_dagri": "KAB. NAGEKEO",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5319",
+          "nama_bps": "KAB. MANGGARAI TIMUR",
+          "kode_dagri": "5319",
+          "nama_dagri": "KAB. MANGGARAI TIMUR",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5320",
+          "nama_bps": "KAB. SABU RAIJUA",
+          "kode_dagri": "5320",
+          "nama_dagri": "KAB. SABU RAIJUA",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5321",
+          "nama_bps": "KAB. MALAKA",
+          "kode_dagri": "5321",
+          "nama_dagri": "KAB. MALAKA",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "5371",
+          "nama_bps": "KOTA KUPANG",
+          "kode_dagri": "5371",
+          "nama_dagri": "KOTA KUPANG",
+          "parent_kode_bps": "53",
+          "province_kode_bps": "53"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "61",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "6101",
+          "nama_bps": "KAB. SAMBAS",
+          "kode_dagri": "6101",
+          "nama_dagri": "KAB. SAMBAS",
+          "parent_kode_bps": "61",
+          "province_kode_bps": "61"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6102",
+          "nama_bps": "KAB. BENGKAYANG",
+          "kode_dagri": "6107",
+          "nama_dagri": "KAB. BENGKAYANG",
+          "parent_kode_bps": "61",
+          "province_kode_bps": "61"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6103",
+          "nama_bps": "KAB. LANDAK",
+          "kode_dagri": "6108",
+          "nama_dagri": "KAB. LANDAK",
+          "parent_kode_bps": "61",
+          "province_kode_bps": "61"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6104",
+          "nama_bps": "KAB. MEMPAWAH",
+          "kode_dagri": "6102",
+          "nama_dagri": "KAB. MEMPAWAH",
+          "parent_kode_bps": "61",
+          "province_kode_bps": "61"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6105",
+          "nama_bps": "KAB. SANGGAU",
+          "kode_dagri": "6103",
+          "nama_dagri": "KAB. SANGGAU",
+          "parent_kode_bps": "61",
+          "province_kode_bps": "61"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6106",
+          "nama_bps": "KAB. KETAPANG",
+          "kode_dagri": "6104",
+          "nama_dagri": "KAB. KETAPANG",
+          "parent_kode_bps": "61",
+          "province_kode_bps": "61"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6107",
+          "nama_bps": "KAB. SINTANG",
+          "kode_dagri": "6105",
+          "nama_dagri": "KAB. SINTANG",
+          "parent_kode_bps": "61",
+          "province_kode_bps": "61"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6108",
+          "nama_bps": "KAB. KAPUAS HULU",
+          "kode_dagri": "6106",
+          "nama_dagri": "KAB. KAPUAS HULU",
+          "parent_kode_bps": "61",
+          "province_kode_bps": "61"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6109",
+          "nama_bps": "KAB. SEKADAU",
+          "kode_dagri": "6109",
+          "nama_dagri": "KAB. SEKADAU",
+          "parent_kode_bps": "61",
+          "province_kode_bps": "61"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6110",
+          "nama_bps": "KAB. MELAWI",
+          "kode_dagri": "6110",
+          "nama_dagri": "KAB. MELAWI",
+          "parent_kode_bps": "61",
+          "province_kode_bps": "61"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6111",
+          "nama_bps": "KAB. KAYONG UTARA",
+          "kode_dagri": "6111",
+          "nama_dagri": "KAB. KAYONG UTARA",
+          "parent_kode_bps": "61",
+          "province_kode_bps": "61"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6112",
+          "nama_bps": "KAB. KUBU RAYA",
+          "kode_dagri": "6112",
+          "nama_dagri": "KAB. KUBU RAYA",
+          "parent_kode_bps": "61",
+          "province_kode_bps": "61"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6171",
+          "nama_bps": "KOTA PONTIANAK",
+          "kode_dagri": "6171",
+          "nama_dagri": "KOTA PONTIANAK",
+          "parent_kode_bps": "61",
+          "province_kode_bps": "61"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6172",
+          "nama_bps": "KOTA SINGKAWANG",
+          "kode_dagri": "6172",
+          "nama_dagri": "KOTA SINGKAWANG",
+          "parent_kode_bps": "61",
+          "province_kode_bps": "61"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "62",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "6201",
+          "nama_bps": "KAB. KOTAWARINGIN BARAT",
+          "kode_dagri": "6201",
+          "nama_dagri": "KAB. KOTAWARINGIN BARAT",
+          "parent_kode_bps": "62",
+          "province_kode_bps": "62"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6202",
+          "nama_bps": "KAB. KOTAWARINGIN TIMUR",
+          "kode_dagri": "6202",
+          "nama_dagri": "KAB. KOTAWARINGIN TIMUR",
+          "parent_kode_bps": "62",
+          "province_kode_bps": "62"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6203",
+          "nama_bps": "KAB. KAPUAS",
+          "kode_dagri": "6203",
+          "nama_dagri": "KAB. KAPUAS",
+          "parent_kode_bps": "62",
+          "province_kode_bps": "62"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6204",
+          "nama_bps": "KAB. BARITO SELATAN",
+          "kode_dagri": "6204",
+          "nama_dagri": "KAB. BARITO SELATAN",
+          "parent_kode_bps": "62",
+          "province_kode_bps": "62"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6205",
+          "nama_bps": "KAB. BARITO UTARA",
+          "kode_dagri": "6205",
+          "nama_dagri": "KAB. BARITO UTARA",
+          "parent_kode_bps": "62",
+          "province_kode_bps": "62"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6206",
+          "nama_bps": "KAB. SUKAMARA",
+          "kode_dagri": "6208",
+          "nama_dagri": "KAB. SUKAMARA",
+          "parent_kode_bps": "62",
+          "province_kode_bps": "62"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6207",
+          "nama_bps": "KAB. LAMANDAU",
+          "kode_dagri": "6209",
+          "nama_dagri": "KAB. LAMANDAU",
+          "parent_kode_bps": "62",
+          "province_kode_bps": "62"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6208",
+          "nama_bps": "KAB. SERUYAN",
+          "kode_dagri": "6207",
+          "nama_dagri": "KAB. SERUYAN",
+          "parent_kode_bps": "62",
+          "province_kode_bps": "62"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6209",
+          "nama_bps": "KAB. KATINGAN",
+          "kode_dagri": "6206",
+          "nama_dagri": "KAB. KATINGAN",
+          "parent_kode_bps": "62",
+          "province_kode_bps": "62"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6210",
+          "nama_bps": "KAB. PULANG PISAU",
+          "kode_dagri": "6211",
+          "nama_dagri": "KAB. PULANG PISAU",
+          "parent_kode_bps": "62",
+          "province_kode_bps": "62"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6211",
+          "nama_bps": "KAB. GUNUNG MAS",
+          "kode_dagri": "6210",
+          "nama_dagri": "KAB. GUNUNG MAS",
+          "parent_kode_bps": "62",
+          "province_kode_bps": "62"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6212",
+          "nama_bps": "KAB. BARITO TIMUR",
+          "kode_dagri": "6213",
+          "nama_dagri": "KAB. BARITO TIMUR",
+          "parent_kode_bps": "62",
+          "province_kode_bps": "62"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6213",
+          "nama_bps": "KAB. MURUNG RAYA",
+          "kode_dagri": "6212",
+          "nama_dagri": "KAB. MURUNG RAYA",
+          "parent_kode_bps": "62",
+          "province_kode_bps": "62"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6271",
+          "nama_bps": "KOTA PALANGKARAYA",
+          "kode_dagri": "6271",
+          "nama_dagri": "KOTA PALANGKARAYA",
+          "parent_kode_bps": "62",
+          "province_kode_bps": "62"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "63",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "6301",
+          "nama_bps": "KAB. TANAH LAUT",
+          "kode_dagri": "6301",
+          "nama_dagri": "KAB. TANAH LAUT",
+          "parent_kode_bps": "63",
+          "province_kode_bps": "63"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6302",
+          "nama_bps": "KAB. KOTABARU",
+          "kode_dagri": "6302",
+          "nama_dagri": "KAB. KOTABARU",
+          "parent_kode_bps": "63",
+          "province_kode_bps": "63"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6303",
+          "nama_bps": "KAB. BANJAR",
+          "kode_dagri": "6303",
+          "nama_dagri": "KAB. BANJAR",
+          "parent_kode_bps": "63",
+          "province_kode_bps": "63"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6304",
+          "nama_bps": "KAB. BARITO KUALA",
+          "kode_dagri": "6304",
+          "nama_dagri": "KAB. BARITO KUALA",
+          "parent_kode_bps": "63",
+          "province_kode_bps": "63"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6305",
+          "nama_bps": "KAB. TAPIN",
+          "kode_dagri": "6305",
+          "nama_dagri": "KAB. TAPIN",
+          "parent_kode_bps": "63",
+          "province_kode_bps": "63"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6306",
+          "nama_bps": "KAB. HULU SUNGAI SELATAN",
+          "kode_dagri": "6306",
+          "nama_dagri": "KAB. HULU SUNGAI SELATAN",
+          "parent_kode_bps": "63",
+          "province_kode_bps": "63"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6307",
+          "nama_bps": "KAB. HULU SUNGAI TENGAH",
+          "kode_dagri": "6307",
+          "nama_dagri": "KAB. HULU SUNGAI TENGAH",
+          "parent_kode_bps": "63",
+          "province_kode_bps": "63"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6308",
+          "nama_bps": "KAB. HULU SUNGAI UTARA",
+          "kode_dagri": "6308",
+          "nama_dagri": "KAB. HULU SUNGAI UTARA",
+          "parent_kode_bps": "63",
+          "province_kode_bps": "63"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6309",
+          "nama_bps": "KAB. TABALONG",
+          "kode_dagri": "6309",
+          "nama_dagri": "KAB. TABALONG",
+          "parent_kode_bps": "63",
+          "province_kode_bps": "63"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6310",
+          "nama_bps": "KAB. TANAH BUMBU",
+          "kode_dagri": "6310",
+          "nama_dagri": "KAB. TANAH BUMBU",
+          "parent_kode_bps": "63",
+          "province_kode_bps": "63"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6311",
+          "nama_bps": "KAB. BALANGAN",
+          "kode_dagri": "6311",
+          "nama_dagri": "KAB. BALANGAN",
+          "parent_kode_bps": "63",
+          "province_kode_bps": "63"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6371",
+          "nama_bps": "KOTA BANJARMASIN",
+          "kode_dagri": "6371",
+          "nama_dagri": "KOTA BANJARMASIN",
+          "parent_kode_bps": "63",
+          "province_kode_bps": "63"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6372",
+          "nama_bps": "KOTA BANJARBARU",
+          "kode_dagri": "6372",
+          "nama_dagri": "KOTA BANJARBARU",
+          "parent_kode_bps": "63",
+          "province_kode_bps": "63"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "64",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "6401",
+          "nama_bps": "KAB. PASER",
+          "kode_dagri": "6401",
+          "nama_dagri": "KAB. PASER",
+          "parent_kode_bps": "64",
+          "province_kode_bps": "64"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6402",
+          "nama_bps": "KAB. KUTAI BARAT",
+          "kode_dagri": "6407",
+          "nama_dagri": "KAB. KUTAI BARAT",
+          "parent_kode_bps": "64",
+          "province_kode_bps": "64"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6403",
+          "nama_bps": "KAB. KUTAI KARTANEGARA",
+          "kode_dagri": "6402",
+          "nama_dagri": "KAB. KUTAI KARTANEGARA",
+          "parent_kode_bps": "64",
+          "province_kode_bps": "64"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6404",
+          "nama_bps": "KAB. KUTAI TIMUR",
+          "kode_dagri": "6408",
+          "nama_dagri": "KAB. KUTAI TIMUR",
+          "parent_kode_bps": "64",
+          "province_kode_bps": "64"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6405",
+          "nama_bps": "KAB. BERAU",
+          "kode_dagri": "6403",
+          "nama_dagri": "KAB. BERAU",
+          "parent_kode_bps": "64",
+          "province_kode_bps": "64"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6409",
+          "nama_bps": "KAB. PENAJAM PASER UTARA",
+          "kode_dagri": "6409",
+          "nama_dagri": "KAB. PENAJAM PASER UTARA",
+          "parent_kode_bps": "64",
+          "province_kode_bps": "64"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6411",
+          "nama_bps": "KAB. MAHAKAM ULU",
+          "kode_dagri": "6411",
+          "nama_dagri": "KAB. MAHAKAM ULU",
+          "parent_kode_bps": "64",
+          "province_kode_bps": "64"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6471",
+          "nama_bps": "KOTA BALIKPAPAN",
+          "kode_dagri": "6471",
+          "nama_dagri": "KOTA BALIKPAPAN",
+          "parent_kode_bps": "64",
+          "province_kode_bps": "64"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6472",
+          "nama_bps": "KOTA SAMARINDA",
+          "kode_dagri": "6472",
+          "nama_dagri": "KOTA SAMARINDA",
+          "parent_kode_bps": "64",
+          "province_kode_bps": "64"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6474",
+          "nama_bps": "KOTA BONTANG",
+          "kode_dagri": "6474",
+          "nama_dagri": "KOTA BONTANG",
+          "parent_kode_bps": "64",
+          "province_kode_bps": "64"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "65",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "6501",
+          "nama_bps": "KAB. MALINAU",
+          "kode_dagri": "6502",
+          "nama_dagri": "KAB. MALINAU",
+          "parent_kode_bps": "65",
+          "province_kode_bps": "65"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6502",
+          "nama_bps": "KAB. BULUNGAN",
+          "kode_dagri": "6501",
+          "nama_dagri": "KAB. BULUNGAN",
+          "parent_kode_bps": "65",
+          "province_kode_bps": "65"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6503",
+          "nama_bps": "KAB. TANA TIDUNG",
+          "kode_dagri": "6504",
+          "nama_dagri": "KAB. TANA TIDUNG",
+          "parent_kode_bps": "65",
+          "province_kode_bps": "65"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6504",
+          "nama_bps": "KAB. NUNUKAN",
+          "kode_dagri": "6503",
+          "nama_dagri": "KAB. NUNUKAN",
+          "parent_kode_bps": "65",
+          "province_kode_bps": "65"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "6571",
+          "nama_bps": "KOTA TARAKAN",
+          "kode_dagri": "6571",
+          "nama_dagri": "KOTA TARAKAN",
+          "parent_kode_bps": "65",
+          "province_kode_bps": "65"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "71",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "7101",
+          "nama_bps": "KAB. BOLAANG MONGONDOW",
+          "kode_dagri": "7101",
+          "nama_dagri": "KAB. BOLAANG MONGONDOW",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7102",
+          "nama_bps": "KAB. MINAHASA",
+          "kode_dagri": "7102",
+          "nama_dagri": "KAB. MINAHASA",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7103",
+          "nama_bps": "KAB. KEPULAUAN SANGIHE",
+          "kode_dagri": "7103",
+          "nama_dagri": "KAB. KEPULAUAN SANGIHE",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7104",
+          "nama_bps": "KAB. KEPULAUAN TALAUD",
+          "kode_dagri": "7104",
+          "nama_dagri": "KAB. KEPULAUAN TALAUD",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7105",
+          "nama_bps": "KAB. MINAHASA SELATAN",
+          "kode_dagri": "7105",
+          "nama_dagri": "KAB. MINAHASA SELATAN",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7106",
+          "nama_bps": "KAB. MINAHASA UTARA",
+          "kode_dagri": "7106",
+          "nama_dagri": "KAB. MINAHASA UTARA",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7107",
+          "nama_bps": "KAB. BOLAANG MONGONDOW UTARA",
+          "kode_dagri": "7108",
+          "nama_dagri": "KAB. BOLAANG MONGONDOW UTARA",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7108",
+          "nama_bps": "KAB. KEP. SIAU TAGULANDANG BIARO",
+          "kode_dagri": "7109",
+          "nama_dagri": "KAB. KEP. SIAU TAGULANDANG BIARO",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7109",
+          "nama_bps": "KAB. MINAHASA TENGGARA",
+          "kode_dagri": "7107",
+          "nama_dagri": "KAB. MINAHASA TENGGARA",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7110",
+          "nama_bps": "KAB. BOLAANG MONGONDOW SELATAN",
+          "kode_dagri": "7111",
+          "nama_dagri": "KAB. BOLAANG MONGONDOW SELATAN",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7111",
+          "nama_bps": "KAB. BOLAANG MONGONDOW TIMUR",
+          "kode_dagri": "7110",
+          "nama_dagri": "KAB. BOLAANG MONGONDOW TIMUR",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7171",
+          "nama_bps": "KOTA MANADO",
+          "kode_dagri": "7171",
+          "nama_dagri": "KOTA MANADO",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7172",
+          "nama_bps": "KOTA BITUNG",
+          "kode_dagri": "7172",
+          "nama_dagri": "KOTA BITUNG",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7173",
+          "nama_bps": "KOTA TOMOHON",
+          "kode_dagri": "7173",
+          "nama_dagri": "KOTA TOMOHON",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7174",
+          "nama_bps": "KOTA KOTAMOBAGU",
+          "kode_dagri": "7174",
+          "nama_dagri": "KOTA KOTAMOBAGU",
+          "parent_kode_bps": "71",
+          "province_kode_bps": "71"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "72",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "7201",
+          "nama_bps": "KAB. BANGGAI KEPULAUAN",
+          "kode_dagri": "7207",
+          "nama_dagri": "KAB. BANGGAI KEPULAUAN",
+          "parent_kode_bps": "72",
+          "province_kode_bps": "72"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7202",
+          "nama_bps": "KAB. BANGGAI",
+          "kode_dagri": "7201",
+          "nama_dagri": "KAB. BANGGAI",
+          "parent_kode_bps": "72",
+          "province_kode_bps": "72"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7203",
+          "nama_bps": "KAB. MOROWALI",
+          "kode_dagri": "7206",
+          "nama_dagri": "KAB. MOROWALI",
+          "parent_kode_bps": "72",
+          "province_kode_bps": "72"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7204",
+          "nama_bps": "KAB. POSO",
+          "kode_dagri": "7202",
+          "nama_dagri": "KAB. POSO",
+          "parent_kode_bps": "72",
+          "province_kode_bps": "72"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7205",
+          "nama_bps": "KAB. DONGGALA",
+          "kode_dagri": "7203",
+          "nama_dagri": "KAB. DONGGALA",
+          "parent_kode_bps": "72",
+          "province_kode_bps": "72"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7206",
+          "nama_bps": "KAB. TOLI TOLI",
+          "kode_dagri": "7204",
+          "nama_dagri": "KAB. TOLI TOLI",
+          "parent_kode_bps": "72",
+          "province_kode_bps": "72"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7207",
+          "nama_bps": "KAB. BUOL",
+          "kode_dagri": "7205",
+          "nama_dagri": "KAB. BUOL",
+          "parent_kode_bps": "72",
+          "province_kode_bps": "72"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7208",
+          "nama_bps": "KAB. PARIGI MOUTONG",
+          "kode_dagri": "7208",
+          "nama_dagri": "KAB. PARIGI MOUTONG",
+          "parent_kode_bps": "72",
+          "province_kode_bps": "72"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7209",
+          "nama_bps": "KAB. TOJO UNA UNA",
+          "kode_dagri": "7209",
+          "nama_dagri": "KAB. TOJO UNA UNA",
+          "parent_kode_bps": "72",
+          "province_kode_bps": "72"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7210",
+          "nama_bps": "KAB. SIGI",
+          "kode_dagri": "7210",
+          "nama_dagri": "KAB. SIGI",
+          "parent_kode_bps": "72",
+          "province_kode_bps": "72"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7211",
+          "nama_bps": "KAB. BANGGAI LAUT",
+          "kode_dagri": "7211",
+          "nama_dagri": "KAB. BANGGAI LAUT",
+          "parent_kode_bps": "72",
+          "province_kode_bps": "72"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7212",
+          "nama_bps": "KAB. MOROWALI UTARA",
+          "kode_dagri": "7212",
+          "nama_dagri": "KAB. MOROWALI UTARA",
+          "parent_kode_bps": "72",
+          "province_kode_bps": "72"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7271",
+          "nama_bps": "KOTA PALU",
+          "kode_dagri": "7271",
+          "nama_dagri": "KOTA PALU",
+          "parent_kode_bps": "72",
+          "province_kode_bps": "72"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "73",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "7301",
+          "nama_bps": "KAB. KEPULAUAN SELAYAR",
+          "kode_dagri": "7301",
+          "nama_dagri": "KAB. KEPULAUAN SELAYAR",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7302",
+          "nama_bps": "KAB. BULUKUMBA",
+          "kode_dagri": "7302",
+          "nama_dagri": "KAB. BULUKUMBA",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7303",
+          "nama_bps": "KAB. BANTAENG",
+          "kode_dagri": "7303",
+          "nama_dagri": "KAB. BANTAENG",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7304",
+          "nama_bps": "KAB. JENEPONTO",
+          "kode_dagri": "7304",
+          "nama_dagri": "KAB. JENEPONTO",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7305",
+          "nama_bps": "KAB. TAKALAR",
+          "kode_dagri": "7305",
+          "nama_dagri": "KAB. TAKALAR",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7306",
+          "nama_bps": "KAB. GOWA",
+          "kode_dagri": "7306",
+          "nama_dagri": "KAB. GOWA",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7307",
+          "nama_bps": "KAB. SINJAI",
+          "kode_dagri": "7307",
+          "nama_dagri": "KAB. SINJAI",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7308",
+          "nama_bps": "KAB. MAROS",
+          "kode_dagri": "7309",
+          "nama_dagri": "KAB. MAROS",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7309",
+          "nama_bps": "KAB. PANGKAJENE DAN KEPULAUAN",
+          "kode_dagri": "7310",
+          "nama_dagri": "KAB. PANGKAJENE DAN KEPULAUAN",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7310",
+          "nama_bps": "KAB. BARRU",
+          "kode_dagri": "7311",
+          "nama_dagri": "KAB. BARRU",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7311",
+          "nama_bps": "KAB. BONE",
+          "kode_dagri": "7308",
+          "nama_dagri": "KAB. BONE",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7312",
+          "nama_bps": "KAB. SOPPENG",
+          "kode_dagri": "7312",
+          "nama_dagri": "KAB. SOPPENG",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7313",
+          "nama_bps": "KAB. WAJO",
+          "kode_dagri": "7313",
+          "nama_dagri": "KAB. WAJO",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7314",
+          "nama_bps": "KAB. SIDENRENG RAPPANG",
+          "kode_dagri": "7314",
+          "nama_dagri": "KAB. SIDENRENG RAPPANG",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7315",
+          "nama_bps": "KAB. PINRANG",
+          "kode_dagri": "7315",
+          "nama_dagri": "KAB. PINRANG",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7316",
+          "nama_bps": "KAB. ENREKANG",
+          "kode_dagri": "7316",
+          "nama_dagri": "KAB. ENREKANG",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7317",
+          "nama_bps": "KAB. LUWU",
+          "kode_dagri": "7317",
+          "nama_dagri": "KAB. LUWU",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7318",
+          "nama_bps": "KAB. TANA TORAJA",
+          "kode_dagri": "7318",
+          "nama_dagri": "KAB. TANA TORAJA",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7322",
+          "nama_bps": "KAB. LUWU UTARA",
+          "kode_dagri": "7322",
+          "nama_dagri": "KAB. LUWU UTARA",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7325",
+          "nama_bps": "KAB. LUWU TIMUR",
+          "kode_dagri": "7324",
+          "nama_dagri": "KAB. LUWU TIMUR",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7326",
+          "nama_bps": "KAB. TORAJA UTARA",
+          "kode_dagri": "7326",
+          "nama_dagri": "KAB. TORAJA UTARA",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7371",
+          "nama_bps": "KOTA MAKASSAR",
+          "kode_dagri": "7371",
+          "nama_dagri": "KOTA MAKASSAR",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7372",
+          "nama_bps": "KOTA PAREPARE",
+          "kode_dagri": "7372",
+          "nama_dagri": "KOTA PAREPARE",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7373",
+          "nama_bps": "KOTA PALOPO",
+          "kode_dagri": "7373",
+          "nama_dagri": "KOTA PALOPO",
+          "parent_kode_bps": "73",
+          "province_kode_bps": "73"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "74",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "7401",
+          "nama_bps": "KAB. BUTON",
+          "kode_dagri": "7404",
+          "nama_dagri": "KAB. BUTON",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7402",
+          "nama_bps": "KAB. MUNA",
+          "kode_dagri": "7403",
+          "nama_dagri": "KAB. MUNA",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7403",
+          "nama_bps": "KAB. KONAWE",
+          "kode_dagri": "7402",
+          "nama_dagri": "KAB. KONAWE",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7404",
+          "nama_bps": "KAB. KOLAKA",
+          "kode_dagri": "7401",
+          "nama_dagri": "KAB. KOLAKA",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7405",
+          "nama_bps": "KAB. KONAWE SELATAN",
+          "kode_dagri": "7405",
+          "nama_dagri": "KAB. KONAWE SELATAN",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7406",
+          "nama_bps": "KAB. BOMBANA",
+          "kode_dagri": "7406",
+          "nama_dagri": "KAB. BOMBANA",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7407",
+          "nama_bps": "KAB. WAKATOBI",
+          "kode_dagri": "7407",
+          "nama_dagri": "KAB. WAKATOBI",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7408",
+          "nama_bps": "KAB. KOLAKA UTARA",
+          "kode_dagri": "7408",
+          "nama_dagri": "KAB. KOLAKA UTARA",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7409",
+          "nama_bps": "KAB. BUTON UTARA",
+          "kode_dagri": "7410",
+          "nama_dagri": "KAB. BUTON UTARA",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7410",
+          "nama_bps": "KAB. KONAWE UTARA",
+          "kode_dagri": "7409",
+          "nama_dagri": "KAB. KONAWE UTARA",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7411",
+          "nama_bps": "KAB. KOLAKA TIMUR",
+          "kode_dagri": "7411",
+          "nama_dagri": "KAB. KOLAKA TIMUR",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7412",
+          "nama_bps": "KAB. KONAWE KEPULAUAN",
+          "kode_dagri": "7412",
+          "nama_dagri": "KAB. KONAWE KEPULAUAN",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7413",
+          "nama_bps": "KAB. MUNA BARAT",
+          "kode_dagri": "7413",
+          "nama_dagri": "KAB. MUNA BARAT",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7414",
+          "nama_bps": "KAB. BUTON TENGAH",
+          "kode_dagri": "7414",
+          "nama_dagri": "KAB. BUTON TENGAH",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7415",
+          "nama_bps": "KAB. BUTON SELATAN",
+          "kode_dagri": "7415",
+          "nama_dagri": "KAB. BUTON SELATAN",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7471",
+          "nama_bps": "KOTA KENDARI",
+          "kode_dagri": "7471",
+          "nama_dagri": "KOTA KENDARI",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7472",
+          "nama_bps": "KOTA BAU BAU",
+          "kode_dagri": "7472",
+          "nama_dagri": "KOTA BAU BAU",
+          "parent_kode_bps": "74",
+          "province_kode_bps": "74"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "75",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "7501",
+          "nama_bps": "KAB. BOALEMO",
+          "kode_dagri": "7502",
+          "nama_dagri": "KAB. BOALEMO",
+          "parent_kode_bps": "75",
+          "province_kode_bps": "75"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7502",
+          "nama_bps": "KAB. GORONTALO",
+          "kode_dagri": "7501",
+          "nama_dagri": "KAB. GORONTALO",
+          "parent_kode_bps": "75",
+          "province_kode_bps": "75"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7503",
+          "nama_bps": "KAB. POHUWATO",
+          "kode_dagri": "7504",
+          "nama_dagri": "KAB. POHUWATO",
+          "parent_kode_bps": "75",
+          "province_kode_bps": "75"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7504",
+          "nama_bps": "KAB. BONE BOLANGO",
+          "kode_dagri": "7503",
+          "nama_dagri": "KAB. BONE BOLANGO",
+          "parent_kode_bps": "75",
+          "province_kode_bps": "75"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7505",
+          "nama_bps": "KAB. GORONTALO UTARA",
+          "kode_dagri": "7505",
+          "nama_dagri": "KAB. GORONTALO UTARA",
+          "parent_kode_bps": "75",
+          "province_kode_bps": "75"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7571",
+          "nama_bps": "KOTA GORONTALO",
+          "kode_dagri": "7571",
+          "nama_dagri": "KOTA GORONTALO",
+          "parent_kode_bps": "75",
+          "province_kode_bps": "75"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "76",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "7601",
+          "nama_bps": "KAB. MAJENE",
+          "kode_dagri": "7605",
+          "nama_dagri": "KAB. MAJENE",
+          "parent_kode_bps": "76",
+          "province_kode_bps": "76"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7602",
+          "nama_bps": "KAB. POLEWALI MANDAR",
+          "kode_dagri": "7604",
+          "nama_dagri": "KAB. POLEWALI MANDAR",
+          "parent_kode_bps": "76",
+          "province_kode_bps": "76"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7603",
+          "nama_bps": "KAB. MAMASA",
+          "kode_dagri": "7603",
+          "nama_dagri": "KAB. MAMASA",
+          "parent_kode_bps": "76",
+          "province_kode_bps": "76"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7604",
+          "nama_bps": "KAB. MAMUJU",
+          "kode_dagri": "7602",
+          "nama_dagri": "KAB. MAMUJU",
+          "parent_kode_bps": "76",
+          "province_kode_bps": "76"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7605",
+          "nama_bps": "KAB. PASANGKAYU",
+          "kode_dagri": "7601",
+          "nama_dagri": "KAB. PASANGKAYU",
+          "parent_kode_bps": "76",
+          "province_kode_bps": "76"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "7606",
+          "nama_bps": "KAB. MAMUJU TENGAH",
+          "kode_dagri": "7606",
+          "nama_dagri": "KAB. MAMUJU TENGAH",
+          "parent_kode_bps": "76",
+          "province_kode_bps": "76"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "81",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "8101",
+          "nama_bps": "KAB. KEPULAUAN TANIMBAR",
+          "kode_dagri": "8103",
+          "nama_dagri": "KAB. KEPULAUAN TANIMBAR",
+          "parent_kode_bps": "81",
+          "province_kode_bps": "81"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8102",
+          "nama_bps": "KAB. MALUKU TENGGARA",
+          "kode_dagri": "8102",
+          "nama_dagri": "KAB. MALUKU TENGGARA",
+          "parent_kode_bps": "81",
+          "province_kode_bps": "81"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8103",
+          "nama_bps": "KAB. MALUKU TENGAH",
+          "kode_dagri": "8101",
+          "nama_dagri": "KAB. MALUKU TENGAH",
+          "parent_kode_bps": "81",
+          "province_kode_bps": "81"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8104",
+          "nama_bps": "KAB. BURU",
+          "kode_dagri": "8104",
+          "nama_dagri": "KAB. BURU",
+          "parent_kode_bps": "81",
+          "province_kode_bps": "81"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8105",
+          "nama_bps": "KAB. KEPULAUAN ARU",
+          "kode_dagri": "8107",
+          "nama_dagri": "KAB. KEPULAUAN ARU",
+          "parent_kode_bps": "81",
+          "province_kode_bps": "81"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8106",
+          "nama_bps": "KAB. SERAM BAGIAN BARAT",
+          "kode_dagri": "8106",
+          "nama_dagri": "KAB. SERAM BAGIAN BARAT",
+          "parent_kode_bps": "81",
+          "province_kode_bps": "81"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8107",
+          "nama_bps": "KAB. SERAM BAGIAN TIMUR",
+          "kode_dagri": "8105",
+          "nama_dagri": "KAB. SERAM BAGIAN TIMUR",
+          "parent_kode_bps": "81",
+          "province_kode_bps": "81"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8108",
+          "nama_bps": "KAB. MALUKU BARAT DAYA",
+          "kode_dagri": "8108",
+          "nama_dagri": "KAB. MALUKU BARAT DAYA",
+          "parent_kode_bps": "81",
+          "province_kode_bps": "81"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8109",
+          "nama_bps": "KAB. BURU SELATAN",
+          "kode_dagri": "8109",
+          "nama_dagri": "KAB. BURU SELATAN",
+          "parent_kode_bps": "81",
+          "province_kode_bps": "81"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8171",
+          "nama_bps": "KOTA AMBON",
+          "kode_dagri": "8171",
+          "nama_dagri": "KOTA AMBON",
+          "parent_kode_bps": "81",
+          "province_kode_bps": "81"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8172",
+          "nama_bps": "KOTA TUAL",
+          "kode_dagri": "8172",
+          "nama_dagri": "KOTA TUAL",
+          "parent_kode_bps": "81",
+          "province_kode_bps": "81"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "82",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "8201",
+          "nama_bps": "KAB. HALMAHERA BARAT",
+          "kode_dagri": "8201",
+          "nama_dagri": "KAB. HALMAHERA BARAT",
+          "parent_kode_bps": "82",
+          "province_kode_bps": "82"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8202",
+          "nama_bps": "KAB. HALMAHERA TENGAH",
+          "kode_dagri": "8202",
+          "nama_dagri": "KAB. HALMAHERA TENGAH",
+          "parent_kode_bps": "82",
+          "province_kode_bps": "82"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8203",
+          "nama_bps": "KAB. KEPULAUAN SULA",
+          "kode_dagri": "8205",
+          "nama_dagri": "KAB. KEPULAUAN SULA",
+          "parent_kode_bps": "82",
+          "province_kode_bps": "82"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8204",
+          "nama_bps": "KAB. HALMAHERA SELATAN",
+          "kode_dagri": "8204",
+          "nama_dagri": "KAB. HALMAHERA SELATAN",
+          "parent_kode_bps": "82",
+          "province_kode_bps": "82"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8205",
+          "nama_bps": "KAB. HALMAHERA UTARA",
+          "kode_dagri": "8203",
+          "nama_dagri": "KAB. HALMAHERA UTARA",
+          "parent_kode_bps": "82",
+          "province_kode_bps": "82"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8206",
+          "nama_bps": "KAB. HALMAHERA TIMUR",
+          "kode_dagri": "8206",
+          "nama_dagri": "KAB. HALMAHERA TIMUR",
+          "parent_kode_bps": "82",
+          "province_kode_bps": "82"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8207",
+          "nama_bps": "KAB. PULAU MOROTAI",
+          "kode_dagri": "8207",
+          "nama_dagri": "KAB. PULAU MOROTAI",
+          "parent_kode_bps": "82",
+          "province_kode_bps": "82"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8208",
+          "nama_bps": "KAB. PULAU TALIABU",
+          "kode_dagri": "8208",
+          "nama_dagri": "KAB. PULAU TALIABU",
+          "parent_kode_bps": "82",
+          "province_kode_bps": "82"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8271",
+          "nama_bps": "KOTA TERNATE",
+          "kode_dagri": "8271",
+          "nama_dagri": "KOTA TERNATE",
+          "parent_kode_bps": "82",
+          "province_kode_bps": "82"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "8272",
+          "nama_bps": "KOTA TIDORE KEPULAUAN",
+          "kode_dagri": "8272",
+          "nama_dagri": "KOTA TIDORE KEPULAUAN",
+          "parent_kode_bps": "82",
+          "province_kode_bps": "82"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "91",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "9101",
+          "nama_bps": "KAB. FAK FAK",
+          "kode_dagri": "9203",
+          "nama_dagri": "KAB. FAK FAK",
+          "parent_kode_bps": "91",
+          "province_kode_bps": "91"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9102",
+          "nama_bps": "KAB. KAIMANA",
+          "kode_dagri": "9208",
+          "nama_dagri": "KAB. KAIMANA",
+          "parent_kode_bps": "91",
+          "province_kode_bps": "91"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9103",
+          "nama_bps": "KAB. TELUK WONDAMA",
+          "kode_dagri": "9207",
+          "nama_dagri": "KAB. TELUK WONDAMA",
+          "parent_kode_bps": "91",
+          "province_kode_bps": "91"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9104",
+          "nama_bps": "KAB. TELUK BINTUNI",
+          "kode_dagri": "9206",
+          "nama_dagri": "KAB. TELUK BINTUNI",
+          "parent_kode_bps": "91",
+          "province_kode_bps": "91"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9105",
+          "nama_bps": "KAB. MANOKWARI",
+          "kode_dagri": "9202",
+          "nama_dagri": "KAB. MANOKWARI",
+          "parent_kode_bps": "91",
+          "province_kode_bps": "91"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9111",
+          "nama_bps": "KAB. MANOKWARI SELATAN",
+          "kode_dagri": "9211",
+          "nama_dagri": "KAB. MANOKWARI SELATAN",
+          "parent_kode_bps": "91",
+          "province_kode_bps": "91"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9112",
+          "nama_bps": "KAB. PEGUNUNGAN ARFAK",
+          "kode_dagri": "9212",
+          "nama_dagri": "KAB. PEGUNUNGAN ARFAK",
+          "parent_kode_bps": "91",
+          "province_kode_bps": "91"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "92",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "9201",
+          "nama_bps": "KAB. RAJA AMPAT",
+          "kode_dagri": "9205",
+          "nama_dagri": "KAB. RAJA AMPAT",
+          "parent_kode_bps": "92",
+          "province_kode_bps": "92"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9202",
+          "nama_bps": "KAB. SORONG",
+          "kode_dagri": "9201",
+          "nama_dagri": "KAB. SORONG",
+          "parent_kode_bps": "92",
+          "province_kode_bps": "92"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9203",
+          "nama_bps": "KAB. SORONG SELATAN",
+          "kode_dagri": "9204",
+          "nama_dagri": "KAB. SORONG SELATAN",
+          "parent_kode_bps": "92",
+          "province_kode_bps": "92"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9204",
+          "nama_bps": "KAB. MAYBRAT",
+          "kode_dagri": "9210",
+          "nama_dagri": "KAB. MAYBRAT",
+          "parent_kode_bps": "92",
+          "province_kode_bps": "92"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9205",
+          "nama_bps": "KAB. TAMBRAUW",
+          "kode_dagri": "9209",
+          "nama_dagri": "KAB. TAMBRAUW",
+          "parent_kode_bps": "92",
+          "province_kode_bps": "92"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9271",
+          "nama_bps": "KOTA SORONG",
+          "kode_dagri": "9271",
+          "nama_dagri": "KOTA SORONG",
+          "parent_kode_bps": "92",
+          "province_kode_bps": "92"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "94",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "9403",
+          "nama_bps": "KAB. JAYAPURA",
+          "kode_dagri": "9103",
+          "nama_dagri": "KAB. JAYAPURA",
+          "parent_kode_bps": "94",
+          "province_kode_bps": "94"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9408",
+          "nama_bps": "KAB. KEPULAUAN YAPEN",
+          "kode_dagri": "9105",
+          "nama_dagri": "KAB. KEPULAUAN YAPEN",
+          "parent_kode_bps": "94",
+          "province_kode_bps": "94"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9409",
+          "nama_bps": "KAB. BIAK NUMFOR",
+          "kode_dagri": "9106",
+          "nama_dagri": "KAB. BIAK NUMFOR",
+          "parent_kode_bps": "94",
+          "province_kode_bps": "94"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9419",
+          "nama_bps": "KAB. SARMI",
+          "kode_dagri": "9110",
+          "nama_dagri": "KAB. SARMI",
+          "parent_kode_bps": "94",
+          "province_kode_bps": "94"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9420",
+          "nama_bps": "KAB. KEEROM",
+          "kode_dagri": "9111",
+          "nama_dagri": "KAB. KEEROM",
+          "parent_kode_bps": "94",
+          "province_kode_bps": "94"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9426",
+          "nama_bps": "KAB. WAROPEN",
+          "kode_dagri": "9115",
+          "nama_dagri": "KAB. WAROPEN",
+          "parent_kode_bps": "94",
+          "province_kode_bps": "94"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9427",
+          "nama_bps": "KAB. SUPIORI",
+          "kode_dagri": "9119",
+          "nama_dagri": "KAB. SUPIORI",
+          "parent_kode_bps": "94",
+          "province_kode_bps": "94"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9428",
+          "nama_bps": "KAB. MAMBERAMO RAYA",
+          "kode_dagri": "9120",
+          "nama_dagri": "KAB. MAMBERAMO RAYA",
+          "parent_kode_bps": "94",
+          "province_kode_bps": "94"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9471",
+          "nama_bps": "KOTA JAYAPURA",
+          "kode_dagri": "9171",
+          "nama_dagri": "KOTA JAYAPURA",
+          "parent_kode_bps": "94",
+          "province_kode_bps": "94"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "95",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "9501",
+          "nama_bps": "KAB. MERAUKE",
+          "kode_dagri": "9301",
+          "nama_dagri": "KAB. MERAUKE",
+          "parent_kode_bps": "95",
+          "province_kode_bps": "95"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9502",
+          "nama_bps": "KAB. BOVEN DIGOEL",
+          "kode_dagri": "9302",
+          "nama_dagri": "KAB. BOVEN DIGOEL",
+          "parent_kode_bps": "95",
+          "province_kode_bps": "95"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9503",
+          "nama_bps": "KAB. MAPPI",
+          "kode_dagri": "9303",
+          "nama_dagri": "KAB. MAPPI",
+          "parent_kode_bps": "95",
+          "province_kode_bps": "95"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9504",
+          "nama_bps": "KAB. ASMAT",
+          "kode_dagri": "9304",
+          "nama_dagri": "KAB. ASMAT",
+          "parent_kode_bps": "95",
+          "province_kode_bps": "95"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "96",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "9601",
+          "nama_bps": "KAB. MIMIKA",
+          "kode_dagri": "9404",
+          "nama_dagri": "KAB. MIMIKA",
+          "parent_kode_bps": "96",
+          "province_kode_bps": "96"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9602",
+          "nama_bps": "KAB. DOGIYAI",
+          "kode_dagri": "9406",
+          "nama_dagri": "KAB. DOGIYAI",
+          "parent_kode_bps": "96",
+          "province_kode_bps": "96"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9603",
+          "nama_bps": "KAB. DEIYAI",
+          "kode_dagri": "9408",
+          "nama_dagri": "KAB. DEIYAI",
+          "parent_kode_bps": "96",
+          "province_kode_bps": "96"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9604",
+          "nama_bps": "KAB. NABIRE",
+          "kode_dagri": "9401",
+          "nama_dagri": "KAB. NABIRE",
+          "parent_kode_bps": "96",
+          "province_kode_bps": "96"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9605",
+          "nama_bps": "KAB. PANIAI",
+          "kode_dagri": "9403",
+          "nama_dagri": "KAB. PANIAI",
+          "parent_kode_bps": "96",
+          "province_kode_bps": "96"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9606",
+          "nama_bps": "KAB. INTAN JAYA",
+          "kode_dagri": "9407",
+          "nama_dagri": "KAB. INTAN JAYA",
+          "parent_kode_bps": "96",
+          "province_kode_bps": "96"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9607",
+          "nama_bps": "KAB. PUNCAK",
+          "kode_dagri": "9405",
+          "nama_dagri": "KAB. PUNCAK",
+          "parent_kode_bps": "96",
+          "province_kode_bps": "96"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9608",
+          "nama_bps": "KAB. PUNCAK JAYA",
+          "kode_dagri": "9402",
+          "nama_dagri": "KAB. PUNCAK JAYA",
+          "parent_kode_bps": "96",
+          "province_kode_bps": "96"
+        }
+      ]
+    },
+    {
+      "parent_kode_bps": "97",
+      "items": [
+        {
+          "level": "kabupaten",
+          "kode_bps": "9701",
+          "nama_bps": "KAB. NDUGA",
+          "kode_dagri": "9508",
+          "nama_dagri": "KAB. NDUGA",
+          "parent_kode_bps": "97",
+          "province_kode_bps": "97"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9702",
+          "nama_bps": "KAB. JAYAWIJAYA",
+          "kode_dagri": "9501",
+          "nama_dagri": "KAB. JAYAWIJAYA",
+          "parent_kode_bps": "97",
+          "province_kode_bps": "97"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9703",
+          "nama_bps": "KAB. LANNY JAYA",
+          "kode_dagri": "9507",
+          "nama_dagri": "KAB. LANNY JAYA",
+          "parent_kode_bps": "97",
+          "province_kode_bps": "97"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9704",
+          "nama_bps": "KAB. TOLIKARA",
+          "kode_dagri": "9504",
+          "nama_dagri": "KAB. TOLIKARA",
+          "parent_kode_bps": "97",
+          "province_kode_bps": "97"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9705",
+          "nama_bps": "KAB. MAMBERAMO TENGAH",
+          "kode_dagri": "9505",
+          "nama_dagri": "KAB. MAMBERAMO TENGAH",
+          "parent_kode_bps": "97",
+          "province_kode_bps": "97"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9706",
+          "nama_bps": "KAB. YALIMO",
+          "kode_dagri": "9506",
+          "nama_dagri": "KAB. YALIMO",
+          "parent_kode_bps": "97",
+          "province_kode_bps": "97"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9707",
+          "nama_bps": "KAB. YAHUKIMO",
+          "kode_dagri": "9503",
+          "nama_dagri": "KAB. YAHUKIMO",
+          "parent_kode_bps": "97",
+          "province_kode_bps": "97"
+        },
+        {
+          "level": "kabupaten",
+          "kode_bps": "9708",
+          "nama_bps": "KAB. PEGUNUNGAN BINTANG",
+          "kode_dagri": "9502",
+          "nama_dagri": "KAB. PEGUNUNGAN BINTANG",
+          "parent_kode_bps": "97",
+          "province_kode_bps": "97"
+        }
+      ]
+    }
+  ]
+}
