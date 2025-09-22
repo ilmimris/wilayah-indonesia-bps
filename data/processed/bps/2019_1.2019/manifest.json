@@ -1,0 +1,17 @@
+{
+  "base_url": "https://sig.bps.go.id/rest-bridging/getwilayah",
+  "counts": {
+    "desa": 83344,
+    "kabupaten": 514,
+    "kecamatan": 7217,
+    "provinsi": 34
+  },
+  "fetched_at": "2025-09-22T11:48:16+00:00",
+  "levels": [
+    "provinsi",
+    "kabupaten",
+    "kecamatan",
+    "desa"
+  ],
+  "periode_merge": "2019_1.2019"
+}

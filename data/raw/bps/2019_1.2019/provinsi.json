@@ -1,0 +1,317 @@
+{
+  "level": "provinsi",
+  "fetched_at": "2025-09-22T11:57:28.508781+00:00",
+  "payloads": [
+    {
+      "parent_kode_bps": null,
+      "items": [
+        {
+          "level": "provinsi",
+          "kode_bps": "11",
+          "nama_bps": "ACEH",
+          "kode_dagri": "11",
+          "nama_dagri": "ACEH",
+          "parent_kode_bps": null,
+          "province_kode_bps": "11"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "12",
+          "nama_bps": "SUMATERA UTARA",
+          "kode_dagri": "12",
+          "nama_dagri": "SUMATERA UTARA",
+          "parent_kode_bps": null,
+          "province_kode_bps": "12"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "13",
+          "nama_bps": "SUMATERA BARAT",
+          "kode_dagri": "13",
+          "nama_dagri": "SUMATERA BARAT",
+          "parent_kode_bps": null,
+          "province_kode_bps": "13"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "14",
+          "nama_bps": "RIAU",
+          "kode_dagri": "14",
+          "nama_dagri": "RIAU",
+          "parent_kode_bps": null,
+          "province_kode_bps": "14"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "15",
+          "nama_bps": "JAMBI",
+          "kode_dagri": "15",
+          "nama_dagri": "JAMBI",
+          "parent_kode_bps": null,
+          "province_kode_bps": "15"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "16",
+          "nama_bps": "SUMATERA SELATAN",
+          "kode_dagri": "16",
+          "nama_dagri": "SUMATERA SELATAN",
+          "parent_kode_bps": null,
+          "province_kode_bps": "16"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "17",
+          "nama_bps": "BENGKULU",
+          "kode_dagri": "17",
+          "nama_dagri": "BENGKULU",
+          "parent_kode_bps": null,
+          "province_kode_bps": "17"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "18",
+          "nama_bps": "LAMPUNG",
+          "kode_dagri": "18",
+          "nama_dagri": "LAMPUNG",
+          "parent_kode_bps": null,
+          "province_kode_bps": "18"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "19",
+          "nama_bps": "KEP. BANGKA BELITUNG",
+          "kode_dagri": "19",
+          "nama_dagri": "KEP. BANGKA BELITUNG",
+          "parent_kode_bps": null,
+          "province_kode_bps": "19"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "21",
+          "nama_bps": "KEP. RIAU",
+          "kode_dagri": "21",
+          "nama_dagri": "KEP. RIAU",
+          "parent_kode_bps": null,
+          "province_kode_bps": "21"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "31",
+          "nama_bps": "DKI JAKARTA",
+          "kode_dagri": "31",
+          "nama_dagri": "DKI JAKARTA",
+          "parent_kode_bps": null,
+          "province_kode_bps": "31"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "32",
+          "nama_bps": "JAWA BARAT",
+          "kode_dagri": "32",
+          "nama_dagri": "JAWA BARAT",
+          "parent_kode_bps": null,
+          "province_kode_bps": "32"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "33",
+          "nama_bps": "JAWA TENGAH",
+          "kode_dagri": "33",
+          "nama_dagri": "JAWA TENGAH",
+          "parent_kode_bps": null,
+          "province_kode_bps": "33"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "34",
+          "nama_bps": "DI YOGYAKARTA",
+          "kode_dagri": "34",
+          "nama_dagri": "DI YOGYAKARTA",
+          "parent_kode_bps": null,
+          "province_kode_bps": "34"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "35",
+          "nama_bps": "JAWA TIMUR",
+          "kode_dagri": "35",
+          "nama_dagri": "JAWA TIMUR",
+          "parent_kode_bps": null,
+          "province_kode_bps": "35"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "36",
+          "nama_bps": "BANTEN",
+          "kode_dagri": "36",
+          "nama_dagri": "BANTEN",
+          "parent_kode_bps": null,
+          "province_kode_bps": "36"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "51",
+          "nama_bps": "BALI",
+          "kode_dagri": "51",
+          "nama_dagri": "BALI",
+          "parent_kode_bps": null,
+          "province_kode_bps": "51"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "52",
+          "nama_bps": "NUSA TENGGARA BARAT",
+          "kode_dagri": "52",
+          "nama_dagri": "NUSA TENGGARA BARAT",
+          "parent_kode_bps": null,
+          "province_kode_bps": "52"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "53",
+          "nama_bps": "NUSA TENGGARA TIMUR",
+          "kode_dagri": "53",
+          "nama_dagri": "NUSA TENGGARA TIMUR",
+          "parent_kode_bps": null,
+          "province_kode_bps": "53"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "61",
+          "nama_bps": "KALIMANTAN BARAT",
+          "kode_dagri": "61",
+          "nama_dagri": "KALIMANTAN BARAT",
+          "parent_kode_bps": null,
+          "province_kode_bps": "61"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "62",
+          "nama_bps": "KALIMANTAN TENGAH",
+          "kode_dagri": "62",
+          "nama_dagri": "KALIMANTAN TENGAH",
+          "parent_kode_bps": null,
+          "province_kode_bps": "62"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "63",
+          "nama_bps": "KALIMANTAN SELATAN",
+          "kode_dagri": "63",
+          "nama_dagri": "KALIMANTAN SELATAN",
+          "parent_kode_bps": null,
+          "province_kode_bps": "63"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "64",
+          "nama_bps": "KALIMANTAN TIMUR",
+          "kode_dagri": "64",
+          "nama_dagri": "KALIMANTAN TIMUR",
+          "parent_kode_bps": null,
+          "province_kode_bps": "64"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "65",
+          "nama_bps": "KALIMANTAN UTARA",
+          "kode_dagri": "65",
+          "nama_dagri": "KALIMANTAN UTARA",
+          "parent_kode_bps": null,
+          "province_kode_bps": "65"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "71",
+          "nama_bps": "SULAWESI UTARA",
+          "kode_dagri": "71",
+          "nama_dagri": "SULAWESI UTARA",
+          "parent_kode_bps": null,
+          "province_kode_bps": "71"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "72",
+          "nama_bps": "SULAWESI TENGAH",
+          "kode_dagri": "72",
+          "nama_dagri": "SULAWESI TENGAH",
+          "parent_kode_bps": null,
+          "province_kode_bps": "72"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "73",
+          "nama_bps": "SULAWESI SELATAN",
+          "kode_dagri": "73",
+          "nama_dagri": "SULAWESI SELATAN",
+          "parent_kode_bps": null,
+          "province_kode_bps": "73"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "74",
+          "nama_bps": "SULAWESI TENGGARA",
+          "kode_dagri": "74",
+          "nama_dagri": "SULAWESI TENGGARA",
+          "parent_kode_bps": null,
+          "province_kode_bps": "74"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "75",
+          "nama_bps": "GORONTALO",
+          "kode_dagri": "75",
+          "nama_dagri": "GORONTALO",
+          "parent_kode_bps": null,
+          "province_kode_bps": "75"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "76",
+          "nama_bps": "SULAWESI BARAT",
+          "kode_dagri": "76",
+          "nama_dagri": "SULAWESI BARAT",
+          "parent_kode_bps": null,
+          "province_kode_bps": "76"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "81",
+          "nama_bps": "MALUKU",
+          "kode_dagri": "81",
+          "nama_dagri": "MALUKU",
+          "parent_kode_bps": null,
+          "province_kode_bps": "81"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "82",
+          "nama_bps": "MALUKU UTARA",
+          "kode_dagri": "82",
+          "nama_dagri": "MALUKU UTARA",
+          "parent_kode_bps": null,
+          "province_kode_bps": "82"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "91",
+          "nama_bps": "PAPUA BARAT",
+          "kode_dagri": "92",
+          "nama_dagri": "PAPUA BARAT",
+          "parent_kode_bps": null,
+          "province_kode_bps": "91"
+        },
+        {
+          "level": "provinsi",
+          "kode_bps": "94",
+          "nama_bps": "PAPUA",
+          "kode_dagri": "91",
+          "nama_dagri": "PAPUA",
+          "parent_kode_bps": null,
+          "province_kode_bps": "94"
+        }
+      ]
+    }
+  ]
+}
