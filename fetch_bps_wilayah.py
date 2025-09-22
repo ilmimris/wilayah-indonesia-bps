@@ -207,13 +207,15 @@ def fetch_level(
         sys.stdout.write(f"DRY-RUN: would request {base_url} with {params}\n")
         return []
 
+    last_exc = None
     for attempt in range(1, retries + 1):
         log(
             f"Requesting level={level} parent={parent or '-'} attempt={attempt}",
             verbose,
         )
-        response = requests.get(base_url, params=params, headers=headers, timeout=timeout)
-        if response.status_code == 200:
+        try:
+            response = requests.get(base_url, params=params, headers=headers, timeout=timeout)
+            response.raise_for_status()
             try:
                 payload = response.json()
             except ValueError as exc:  # pragma: no cover - network failure
@@ -224,14 +226,17 @@ def fetch_level(
                 verbose,
             )
             return payload
-        log(
-            f"HTTP {response.status_code} for level={level} parent={parent or '-'}",
-            verbose,
-        )
-        time.sleep(delay * attempt)
+        except requests.exceptions.RequestException as exc:
+            log(
+                f"Request failed for level={level} parent={parent or '-'}: {exc}",
+                verbose,
+            )
+            last_exc = exc
+            time.sleep(delay * attempt)
+
     raise FetchError(
         f"Failed to fetch level={level} parent={parent} after {retries} attempts"
-    )
+    ) from last_exc
 
 
 def fetch_periodes(
@@ -248,10 +253,12 @@ def fetch_periodes(
         sys.stdout.write(f"DRY-RUN: would request {periode_url} for periodes\n")
         return []
 
+    last_exc = None
     for attempt in range(1, retries + 1):
         log(f"Requesting periode catalogue attempt={attempt}", verbose)
-        response = session.get(periode_url, headers=headers, timeout=timeout)
-        if response.status_code == 200:
+        try:
+            response = session.get(periode_url, headers=headers, timeout=timeout)
+            response.raise_for_status()
             try:
                 payload = response.json()
             except ValueError as exc:  # pragma: no cover
@@ -259,9 +266,13 @@ def fetch_periodes(
             size = len(payload) if isinstance(payload, list) else "?"
             log(f"Received periode catalogue with {size} entries", verbose)
             return payload
-        log(f"HTTP {response.status_code} while requesting periode catalogue", verbose)
-        time.sleep(delay * attempt)
-    raise FetchError(f"Failed to fetch periodes after {retries} attempts")
+        except requests.exceptions.RequestException as exc:
+            log(f"Request failed for periode catalogue: {exc}", verbose)
+            last_exc = exc
+            time.sleep(delay * attempt)
+
+    raise FetchError(f"Failed to fetch periodes after {retries} attempts") from last_exc
+
 
 
 def extract_periode_values(raw_payload: object) -> List[str]:
